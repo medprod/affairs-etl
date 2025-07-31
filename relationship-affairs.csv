@@ -1,0 +1,1001 @@
+respondent_id,gender,relationship_type,yearsmarried,children,religiousness,education,occupation,rating,num_affairs
+1,Male,Opposite-Sex Marriage,16,1,3,Doctorate,Education,3,0
+2,Female,Opposite-Sex Marriage,2,0,2,Some College,Healthcare,5,0
+3,Male,Opposite-Sex Marriage,6,1,3,Doctorate,Education,3,0
+4,Male,Opposite-Sex Marriage,28,4,1,Some College,Unemployed,3,1
+5,Male,Opposite-Sex Marriage,21,4,1,Doctorate,Retail,1,0
+6,Female,Opposite-Sex Marriage,29,1,5,Bachelor,Unemployed,1,0
+7,Male,Same-Sex Marriage,26,0,1,Doctorate,Finance,5,0
+8,Male,Opposite-Sex Marriage,25,1,3,Doctorate,Unemployed,3,0
+9,Male,Same-Sex Marriage,12,1,4,High School,Unemployed,4,0
+10,Female,Opposite-Sex Marriage,5,1,4,Bachelor,Finance,1,2
+11,Male,Opposite-Sex Marriage,2,2,5,Master,Education,4,0
+12,Male,Opposite-Sex Marriage,16,4,3,High School,Finance,5,1
+13,Male,Same-Sex Marriage,5,3,3,Master,Retail,3,0
+14,Male,Same-Sex Marriage,15,3,1,Some College,Unemployed,2,0
+15,Female,Opposite-Sex Marriage,12,2,3,Master,Finance,3,0
+16,Male,Opposite-Sex Marriage,4,1,2,Doctorate,Unemployed,4,1
+17,Female,Opposite-Sex Marriage,15,2,1,Master,Retail,3,1
+18,Female,Opposite-Sex Marriage,11,2,2,High School,Healthcare,5,0
+19,Female,Same-Sex Marriage,16,0,5,High School,Retail,4,0
+20,Male,Opposite-Sex Marriage,23,4,4,Master,Tech,5,0
+21,Female,Opposite-Sex Marriage,6,3,5,High School,Tech,4,0
+22,Male,Opposite-Sex Marriage,14,1,4,High School,Tech,2,2
+23,Female,Same-Sex Marriage,18,3,5,Master,Unemployed,3,0
+24,Female,Opposite-Sex Marriage,12,3,3,Bachelor,Education,2,0
+25,Female,Opposite-Sex Marriage,27,4,2,Bachelor,Education,5,0
+26,Female,Opposite-Sex Marriage,11,3,4,Some College,Education,4,0
+27,Female,Opposite-Sex Marriage,13,3,1,High School,Unemployed,4,0
+28,Female,Opposite-Sex Marriage,21,2,2,Master,Retail,3,0
+29,Female,Opposite-Sex Marriage,23,4,1,High School,Education,2,0
+30,Female,Same-Sex Marriage,11,0,2,Doctorate,Healthcare,4,0
+31,Male,Opposite-Sex Marriage,23,1,2,High School,Tech,3,0
+32,Male,Same-Sex Marriage,16,3,5,High School,Retail,2,1
+33,Female,Same-Sex Marriage,15,1,4,Bachelor,Tech,4,0
+34,Female,Opposite-Sex Marriage,21,0,4,Master,Education,1,0
+35,Female,Opposite-Sex Marriage,28,1,2,High School,Retail,3,0
+36,Male,Same-Sex Marriage,15,0,3,Bachelor,Finance,3,0
+37,Female,Opposite-Sex Marriage,25,2,3,Some College,Healthcare,2,0
+38,Male,Opposite-Sex Marriage,4,3,1,Bachelor,Education,5,0
+39,Male,Opposite-Sex Marriage,11,0,1,Bachelor,Education,2,0
+40,Male,Opposite-Sex Marriage,19,1,5,Bachelor,Healthcare,2,3
+41,Male,Same-Sex Marriage,15,3,2,High School,Healthcare,2,0
+42,Male,Opposite-Sex Marriage,4,2,1,High School,Finance,4,0
+43,Female,Opposite-Sex Marriage,21,3,1,Some College,Education,3,0
+44,Female,Opposite-Sex Marriage,13,0,2,Doctorate,Unemployed,3,0
+45,Female,Opposite-Sex Marriage,22,2,5,Doctorate,Education,1,0
+46,Female,Opposite-Sex Marriage,19,1,1,Doctorate,Tech,1,1
+47,Female,Opposite-Sex Marriage,2,2,5,Some College,Retail,3,0
+48,Male,Opposite-Sex Marriage,14,2,4,Doctorate,Retail,4,0
+49,Female,Opposite-Sex Marriage,29,4,5,Doctorate,Tech,5,0
+50,Female,Opposite-Sex Marriage,4,2,3,Bachelor,Retail,1,0
+51,Male,Opposite-Sex Marriage,16,2,3,High School,Healthcare,3,0
+52,Female,Same-Sex Marriage,21,3,5,High School,Retail,5,0
+53,Male,Opposite-Sex Marriage,20,1,3,Bachelor,Retail,3,0
+54,Female,Opposite-Sex Marriage,14,3,4,Bachelor,Tech,4,0
+55,Male,Same-Sex Marriage,27,3,2,Bachelor,Finance,2,0
+56,Female,Opposite-Sex Marriage,29,0,3,High School,Retail,5,3
+57,Female,Opposite-Sex Marriage,15,3,3,Doctorate,Unemployed,4,0
+58,Male,Opposite-Sex Marriage,28,4,5,Bachelor,Retail,5,1
+59,Male,Opposite-Sex Marriage,3,4,4,Some College,Finance,4,1
+60,Male,Opposite-Sex Marriage,8,0,2,Bachelor,Tech,3,0
+61,Male,Opposite-Sex Marriage,16,1,5,Master,Finance,5,0
+62,Male,Opposite-Sex Marriage,10,1,5,Bachelor,Tech,2,0
+63,Male,Opposite-Sex Marriage,4,3,4,High School,Healthcare,3,0
+64,Male,Opposite-Sex Marriage,18,3,2,Bachelor,Tech,4,0
+65,Male,Opposite-Sex Marriage,2,3,4,Master,Healthcare,4,1
+66,Female,Opposite-Sex Marriage,17,1,2,Some College,Healthcare,5,2
+67,Female,Opposite-Sex Marriage,13,2,4,Doctorate,Tech,2,0
+68,Male,Opposite-Sex Marriage,4,4,5,Bachelor,Unemployed,4,0
+69,Female,Same-Sex Marriage,26,2,5,Master,Education,4,0
+70,Female,Opposite-Sex Marriage,25,2,1,Master,Tech,1,1
+71,Female,Opposite-Sex Marriage,11,1,3,Some College,Retail,3,0
+72,Female,Opposite-Sex Marriage,7,2,4,High School,Unemployed,2,0
+73,Male,Opposite-Sex Marriage,12,0,1,Bachelor,Unemployed,3,0
+74,Female,Opposite-Sex Marriage,10,3,3,Master,Retail,5,0
+75,Male,Same-Sex Marriage,7,0,4,Some College,Education,4,2
+76,Female,Same-Sex Marriage,13,4,2,Doctorate,Unemployed,4,0
+77,Female,Opposite-Sex Marriage,7,3,3,Master,Healthcare,5,0
+78,Female,Same-Sex Marriage,24,2,5,Some College,Education,3,2
+79,Male,Opposite-Sex Marriage,17,4,1,High School,Retail,4,0
+80,Female,Opposite-Sex Marriage,10,3,3,High School,Education,3,0
+81,Male,Opposite-Sex Marriage,29,2,3,Master,Tech,5,0
+82,Female,Same-Sex Marriage,10,0,5,Master,Education,2,0
+83,Male,Opposite-Sex Marriage,24,3,4,Bachelor,Healthcare,5,0
+84,Female,Opposite-Sex Marriage,4,2,2,Some College,Tech,2,0
+85,Male,Opposite-Sex Marriage,20,0,5,Master,Finance,3,0
+86,Male,Opposite-Sex Marriage,4,4,2,Bachelor,Retail,4,0
+87,Female,Opposite-Sex Marriage,22,4,4,Bachelor,Retail,3,1
+88,Male,Opposite-Sex Marriage,7,4,3,Master,Education,4,1
+89,Female,Opposite-Sex Marriage,22,4,2,High School,Unemployed,3,0
+90,Female,Opposite-Sex Marriage,1,1,1,Some College,Tech,4,0
+91,Female,Opposite-Sex Marriage,12,3,1,Some College,Finance,2,0
+92,Female,Opposite-Sex Marriage,24,3,5,High School,Tech,1,0
+93,Female,Opposite-Sex Marriage,13,1,4,Master,Retail,2,1
+94,Female,Opposite-Sex Marriage,10,2,5,Some College,Tech,3,0
+95,Female,Same-Sex Marriage,15,2,5,Master,Finance,2,0
+96,Female,Opposite-Sex Marriage,27,4,5,Master,Unemployed,3,0
+97,Female,Opposite-Sex Marriage,13,0,1,Bachelor,Education,3,0
+98,Female,Opposite-Sex Marriage,23,2,1,High School,Healthcare,1,0
+99,Female,Opposite-Sex Marriage,22,0,5,Master,Tech,3,0
+100,Male,Opposite-Sex Marriage,22,3,1,Doctorate,Healthcare,5,3
+101,Male,Opposite-Sex Marriage,21,0,4,High School,Retail,2,1
+102,Female,Opposite-Sex Marriage,22,3,5,Some College,Education,3,0
+103,Female,Opposite-Sex Marriage,28,1,1,Bachelor,Education,4,0
+104,Female,Opposite-Sex Marriage,9,1,2,Some College,Tech,3,2
+105,Female,Opposite-Sex Marriage,26,4,5,Some College,Unemployed,4,0
+106,Female,Opposite-Sex Marriage,9,2,5,High School,Education,3,0
+107,Female,Opposite-Sex Marriage,15,4,4,Some College,Tech,3,0
+108,Female,Opposite-Sex Marriage,10,3,3,Master,Tech,1,1
+109,Female,Opposite-Sex Marriage,24,4,3,Some College,Healthcare,4,0
+110,Male,Opposite-Sex Marriage,26,0,4,Bachelor,Education,4,0
+111,Female,Opposite-Sex Marriage,25,3,4,Bachelor,Tech,1,1
+112,Male,Opposite-Sex Marriage,29,1,4,Doctorate,Healthcare,3,1
+113,Female,Opposite-Sex Marriage,10,2,3,Bachelor,Finance,5,2
+114,Female,Opposite-Sex Marriage,8,3,4,Some College,Healthcare,3,0
+115,Male,Same-Sex Marriage,24,3,1,Bachelor,Healthcare,3,0
+116,Female,Same-Sex Marriage,16,0,5,High School,Tech,5,0
+117,Male,Opposite-Sex Marriage,17,2,5,Bachelor,Retail,4,1
+118,Female,Opposite-Sex Marriage,26,1,2,Master,Retail,3,0
+119,Female,Opposite-Sex Marriage,27,3,2,High School,Unemployed,4,0
+120,Male,Opposite-Sex Marriage,5,3,5,Doctorate,Retail,5,1
+121,Female,Opposite-Sex Marriage,4,0,1,Master,Healthcare,3,0
+122,Male,Opposite-Sex Marriage,18,4,3,Some College,Unemployed,3,0
+123,Female,Opposite-Sex Marriage,24,1,3,Some College,Tech,3,0
+124,Male,Opposite-Sex Marriage,19,2,1,Some College,Education,5,0
+125,Male,Opposite-Sex Marriage,4,3,3,Master,Healthcare,4,0
+126,Female,Opposite-Sex Marriage,28,3,4,Master,Healthcare,1,0
+127,Female,Opposite-Sex Marriage,7,1,5,Master,Unemployed,5,0
+128,Male,Opposite-Sex Marriage,10,4,5,High School,Tech,3,0
+129,Female,Opposite-Sex Marriage,25,3,1,High School,Finance,1,0
+130,Female,Opposite-Sex Marriage,18,1,3,Some College,Healthcare,3,0
+131,Female,Opposite-Sex Marriage,19,0,2,Bachelor,Finance,3,1
+132,Male,Same-Sex Marriage,4,4,2,Some College,Finance,5,0
+133,Male,Opposite-Sex Marriage,10,2,3,Doctorate,Retail,2,0
+134,Male,Opposite-Sex Marriage,1,3,2,High School,Tech,4,1
+135,Male,Opposite-Sex Marriage,23,1,1,Master,Finance,3,0
+136,Male,Opposite-Sex Marriage,18,0,1,High School,Tech,1,3
+137,Male,Opposite-Sex Marriage,5,2,3,Master,Retail,5,1
+138,Male,Opposite-Sex Marriage,15,1,2,Doctorate,Tech,3,0
+139,Male,Opposite-Sex Marriage,17,1,1,Doctorate,Healthcare,2,3
+140,Male,Opposite-Sex Marriage,3,2,1,High School,Finance,3,0
+141,Female,Opposite-Sex Marriage,12,0,4,Master,Tech,5,0
+142,Male,Opposite-Sex Marriage,2,0,4,Doctorate,Education,3,0
+143,Female,Opposite-Sex Marriage,1,4,1,Some College,Tech,2,0
+144,Female,Opposite-Sex Marriage,23,3,3,Some College,Finance,2,2
+145,Female,Opposite-Sex Marriage,21,2,5,Master,Retail,2,0
+146,Male,Same-Sex Marriage,17,2,5,High School,Retail,4,0
+147,Male,Opposite-Sex Marriage,22,2,1,Doctorate,Finance,3,0
+148,Male,Opposite-Sex Marriage,16,0,1,High School,Healthcare,2,0
+149,Male,Opposite-Sex Marriage,5,3,1,Some College,Healthcare,2,0
+150,Female,Opposite-Sex Marriage,15,4,3,Doctorate,Retail,3,0
+151,Male,Opposite-Sex Marriage,3,1,4,High School,Retail,5,1
+152,Male,Opposite-Sex Marriage,28,1,1,Bachelor,Finance,3,0
+153,Male,Opposite-Sex Marriage,7,2,1,Master,Healthcare,5,1
+154,Male,Opposite-Sex Marriage,11,3,2,Master,Retail,3,0
+155,Male,Opposite-Sex Marriage,10,0,3,Bachelor,Healthcare,2,1
+156,Female,Opposite-Sex Marriage,9,3,1,Some College,Retail,5,0
+157,Male,Opposite-Sex Marriage,14,3,2,Doctorate,Tech,3,0
+158,Female,Opposite-Sex Marriage,13,0,5,Master,Education,4,0
+159,Male,Opposite-Sex Marriage,29,2,1,Bachelor,Unemployed,5,1
+160,Female,Opposite-Sex Marriage,25,3,1,Bachelor,Tech,1,0
+161,Male,Opposite-Sex Marriage,25,1,2,Some College,Unemployed,1,3
+162,Male,Same-Sex Marriage,2,0,3,Some College,Retail,4,0
+163,Female,Opposite-Sex Marriage,3,4,1,High School,Education,2,0
+164,Female,Opposite-Sex Marriage,7,2,5,Master,Education,2,0
+165,Female,Opposite-Sex Marriage,21,0,1,High School,Retail,1,2
+166,Male,Opposite-Sex Marriage,18,4,5,Bachelor,Retail,1,0
+167,Female,Opposite-Sex Marriage,3,4,4,Doctorate,Healthcare,4,1
+168,Male,Opposite-Sex Marriage,10,3,4,Doctorate,Retail,2,1
+169,Male,Opposite-Sex Marriage,22,3,5,Some College,Finance,3,0
+170,Female,Opposite-Sex Marriage,29,3,3,Doctorate,Retail,4,0
+171,Female,Opposite-Sex Marriage,7,0,1,Doctorate,Finance,3,0
+172,Male,Same-Sex Marriage,9,0,1,Doctorate,Retail,1,0
+173,Male,Opposite-Sex Marriage,17,2,4,Bachelor,Healthcare,4,1
+174,Female,Opposite-Sex Marriage,11,3,5,Doctorate,Finance,1,0
+175,Female,Opposite-Sex Marriage,7,4,1,Doctorate,Tech,4,0
+176,Female,Same-Sex Marriage,24,1,1,Doctorate,Finance,5,1
+177,Male,Opposite-Sex Marriage,28,2,3,High School,Healthcare,3,0
+178,Male,Opposite-Sex Marriage,14,0,2,Bachelor,Unemployed,3,0
+179,Male,Same-Sex Marriage,19,2,4,Some College,Finance,3,0
+180,Male,Same-Sex Marriage,4,2,4,High School,Retail,3,0
+181,Male,Opposite-Sex Marriage,26,2,2,Master,Retail,5,0
+182,Male,Opposite-Sex Marriage,6,2,1,Bachelor,Unemployed,5,1
+183,Female,Opposite-Sex Marriage,10,1,3,Bachelor,Healthcare,3,0
+184,Male,Opposite-Sex Marriage,7,3,3,Master,Education,4,0
+185,Male,Same-Sex Marriage,13,4,4,Master,Retail,5,0
+186,Male,Opposite-Sex Marriage,14,2,3,Master,Tech,5,0
+187,Female,Opposite-Sex Marriage,4,2,2,Some College,Healthcare,3,0
+188,Male,Opposite-Sex Marriage,8,2,1,Doctorate,Finance,3,2
+189,Male,Opposite-Sex Marriage,5,3,2,Bachelor,Finance,2,0
+190,Female,Opposite-Sex Marriage,1,0,5,Doctorate,Tech,5,0
+191,Male,Opposite-Sex Marriage,4,0,4,Doctorate,Retail,2,0
+192,Male,Opposite-Sex Marriage,3,1,3,Master,Healthcare,3,0
+193,Male,Opposite-Sex Marriage,9,0,5,Some College,Tech,2,0
+194,Male,Opposite-Sex Marriage,8,2,3,High School,Retail,2,0
+195,Male,Opposite-Sex Marriage,1,2,1,Some College,Healthcare,3,0
+196,Female,Opposite-Sex Marriage,27,2,1,Doctorate,Finance,5,0
+197,Female,Opposite-Sex Marriage,6,1,1,Some College,Healthcare,1,0
+198,Female,Opposite-Sex Marriage,9,2,3,Master,Unemployed,3,0
+199,Male,Opposite-Sex Marriage,7,0,5,High School,Education,1,2
+200,Male,Opposite-Sex Marriage,4,3,1,Master,Healthcare,2,0
+201,Male,Opposite-Sex Marriage,13,3,5,High School,Education,3,0
+202,Female,Opposite-Sex Marriage,17,4,3,Doctorate,Healthcare,3,0
+203,Male,Opposite-Sex Marriage,28,0,5,High School,Education,2,0
+204,Male,Opposite-Sex Marriage,2,2,3,High School,Unemployed,3,0
+205,Female,Opposite-Sex Marriage,28,3,3,High School,Finance,1,0
+206,Male,Same-Sex Marriage,5,0,4,Some College,Retail,3,0
+207,Female,Opposite-Sex Marriage,12,3,3,Some College,Education,5,0
+208,Female,Opposite-Sex Marriage,27,2,3,Doctorate,Unemployed,5,0
+209,Female,Opposite-Sex Marriage,21,3,2,High School,Education,3,0
+210,Male,Opposite-Sex Marriage,8,4,1,Bachelor,Finance,3,0
+211,Male,Opposite-Sex Marriage,6,4,4,Doctorate,Education,5,0
+212,Male,Opposite-Sex Marriage,8,3,4,High School,Unemployed,1,0
+213,Male,Opposite-Sex Marriage,18,0,4,High School,Unemployed,4,0
+214,Male,Opposite-Sex Marriage,3,0,2,Some College,Tech,5,0
+215,Male,Opposite-Sex Marriage,22,0,3,Doctorate,Finance,1,0
+216,Male,Same-Sex Marriage,12,3,1,High School,Tech,2,1
+217,Female,Opposite-Sex Marriage,29,0,5,High School,Finance,5,0
+218,Male,Same-Sex Marriage,26,2,3,Doctorate,Education,3,0
+219,Female,Opposite-Sex Marriage,3,4,2,Bachelor,Unemployed,1,0
+220,Male,Opposite-Sex Marriage,22,2,3,Doctorate,Tech,2,3
+221,Male,Same-Sex Marriage,6,0,3,Doctorate,Education,3,0
+222,Male,Opposite-Sex Marriage,2,2,2,Bachelor,Unemployed,4,0
+223,Female,Opposite-Sex Marriage,23,0,4,Doctorate,Finance,4,0
+224,Female,Opposite-Sex Marriage,12,3,4,High School,Unemployed,5,0
+225,Female,Opposite-Sex Marriage,2,2,1,Doctorate,Education,2,0
+226,Female,Opposite-Sex Marriage,6,3,1,Bachelor,Tech,3,0
+227,Male,Opposite-Sex Marriage,17,3,4,Master,Tech,3,2
+228,Female,Opposite-Sex Marriage,3,1,5,Doctorate,Unemployed,3,3
+229,Male,Opposite-Sex Marriage,2,0,3,Some College,Education,2,0
+230,Male,Opposite-Sex Marriage,23,4,5,High School,Healthcare,5,0
+231,Female,Opposite-Sex Marriage,20,0,3,High School,Finance,5,2
+232,Female,Opposite-Sex Marriage,8,4,4,Some College,Finance,3,0
+233,Female,Opposite-Sex Marriage,22,0,1,Some College,Education,4,0
+234,Female,Opposite-Sex Marriage,12,3,1,Doctorate,Healthcare,2,0
+235,Female,Opposite-Sex Marriage,26,2,5,Some College,Tech,3,0
+236,Female,Same-Sex Marriage,4,2,1,Master,Retail,4,0
+237,Female,Opposite-Sex Marriage,5,1,4,Bachelor,Retail,3,0
+238,Female,Opposite-Sex Marriage,13,4,5,Some College,Education,5,0
+239,Male,Opposite-Sex Marriage,29,4,3,Some College,Healthcare,4,0
+240,Female,Opposite-Sex Marriage,15,4,1,Master,Healthcare,3,0
+241,Female,Opposite-Sex Marriage,25,3,2,High School,Finance,4,0
+242,Male,Opposite-Sex Marriage,23,4,1,High School,Tech,2,1
+243,Female,Opposite-Sex Marriage,16,2,3,Doctorate,Unemployed,3,0
+244,Male,Opposite-Sex Marriage,10,3,5,Master,Healthcare,3,0
+245,Male,Opposite-Sex Marriage,25,0,3,Bachelor,Unemployed,3,2
+246,Female,Same-Sex Marriage,23,4,2,Bachelor,Retail,4,2
+247,Male,Opposite-Sex Marriage,16,4,4,Master,Unemployed,3,0
+248,Male,Opposite-Sex Marriage,12,0,1,Bachelor,Tech,4,0
+249,Male,Same-Sex Marriage,17,4,5,High School,Tech,3,0
+250,Male,Opposite-Sex Marriage,16,0,4,Bachelor,Unemployed,3,1
+251,Female,Opposite-Sex Marriage,12,3,3,Bachelor,Education,4,3
+252,Male,Same-Sex Marriage,8,2,5,Master,Healthcare,2,1
+253,Female,Opposite-Sex Marriage,20,0,4,Master,Education,2,0
+254,Male,Opposite-Sex Marriage,3,1,5,Bachelor,Unemployed,3,0
+255,Male,Opposite-Sex Marriage,16,0,2,Some College,Healthcare,2,0
+256,Male,Opposite-Sex Marriage,13,4,2,Master,Finance,1,0
+257,Male,Opposite-Sex Marriage,23,3,1,Doctorate,Education,4,0
+258,Female,Opposite-Sex Marriage,28,3,1,Doctorate,Education,3,0
+259,Female,Same-Sex Marriage,19,0,2,High School,Unemployed,3,0
+260,Male,Opposite-Sex Marriage,8,2,5,Bachelor,Retail,5,0
+261,Male,Opposite-Sex Marriage,22,1,2,Some College,Unemployed,3,0
+262,Female,Opposite-Sex Marriage,5,3,1,High School,Education,5,0
+263,Male,Opposite-Sex Marriage,20,4,2,Bachelor,Healthcare,2,0
+264,Male,Opposite-Sex Marriage,8,4,2,Master,Retail,3,0
+265,Male,Opposite-Sex Marriage,24,2,5,Doctorate,Unemployed,5,1
+266,Female,Opposite-Sex Marriage,12,3,4,Some College,Unemployed,3,0
+267,Female,Opposite-Sex Marriage,1,0,1,Doctorate,Education,4,4
+268,Female,Same-Sex Marriage,25,4,5,Master,Education,3,0
+269,Male,Opposite-Sex Marriage,21,2,2,Bachelor,Finance,1,0
+270,Male,Opposite-Sex Marriage,20,3,2,Master,Unemployed,3,0
+271,Female,Opposite-Sex Marriage,6,3,4,Master,Education,3,0
+272,Female,Opposite-Sex Marriage,22,3,1,Doctorate,Tech,5,1
+273,Female,Opposite-Sex Marriage,18,3,1,Some College,Retail,2,0
+274,Female,Opposite-Sex Marriage,8,3,3,Master,Tech,5,1
+275,Male,Opposite-Sex Marriage,7,4,1,Doctorate,Retail,5,0
+276,Female,Opposite-Sex Marriage,1,2,4,Some College,Unemployed,2,1
+277,Male,Opposite-Sex Marriage,21,3,3,Bachelor,Finance,3,0
+278,Female,Opposite-Sex Marriage,16,1,3,Bachelor,Education,5,1
+279,Male,Opposite-Sex Marriage,12,1,2,High School,Education,5,0
+280,Female,Opposite-Sex Marriage,6,2,2,Doctorate,Education,3,0
+281,Female,Opposite-Sex Marriage,20,0,1,Some College,Unemployed,3,0
+282,Female,Opposite-Sex Marriage,2,0,3,Master,Retail,3,2
+283,Female,Opposite-Sex Marriage,29,0,2,Bachelor,Education,4,0
+284,Male,Opposite-Sex Marriage,14,1,4,Some College,Tech,2,0
+285,Female,Opposite-Sex Marriage,4,0,2,Doctorate,Education,4,1
+286,Male,Same-Sex Marriage,1,4,2,High School,Unemployed,1,0
+287,Male,Opposite-Sex Marriage,23,3,3,Bachelor,Finance,1,0
+288,Male,Opposite-Sex Marriage,18,1,3,Some College,Tech,3,0
+289,Male,Opposite-Sex Marriage,13,2,5,Some College,Education,3,0
+290,Female,Same-Sex Marriage,2,2,4,Some College,Education,3,2
+291,Male,Opposite-Sex Marriage,9,3,3,Doctorate,Healthcare,3,1
+292,Male,Opposite-Sex Marriage,21,1,1,Doctorate,Retail,3,0
+293,Male,Opposite-Sex Marriage,2,0,4,Doctorate,Tech,2,3
+294,Female,Opposite-Sex Marriage,27,0,4,Master,Healthcare,3,0
+295,Female,Opposite-Sex Marriage,25,4,3,Some College,Finance,5,0
+296,Female,Same-Sex Marriage,9,4,4,Bachelor,Retail,3,0
+297,Female,Same-Sex Marriage,1,0,3,Doctorate,Tech,3,0
+298,Male,Opposite-Sex Marriage,11,2,2,Doctorate,Education,3,0
+299,Male,Opposite-Sex Marriage,3,2,5,Some College,Tech,5,2
+300,Female,Same-Sex Marriage,20,4,2,Doctorate,Education,2,1
+301,Male,Opposite-Sex Marriage,23,3,3,Master,Retail,4,0
+302,Male,Opposite-Sex Marriage,26,0,3,Master,Education,4,0
+303,Male,Opposite-Sex Marriage,4,4,2,Doctorate,Finance,4,0
+304,Female,Opposite-Sex Marriage,18,4,1,Some College,Unemployed,1,2
+305,Female,Opposite-Sex Marriage,23,0,1,Some College,Education,4,1
+306,Male,Opposite-Sex Marriage,6,0,1,Some College,Finance,1,0
+307,Female,Same-Sex Marriage,3,2,3,High School,Unemployed,3,1
+308,Female,Same-Sex Marriage,22,3,4,Doctorate,Retail,4,0
+309,Female,Opposite-Sex Marriage,11,3,3,Some College,Retail,2,0
+310,Female,Opposite-Sex Marriage,15,0,4,Master,Tech,4,0
+311,Female,Same-Sex Marriage,22,1,2,Bachelor,Finance,1,0
+312,Male,Opposite-Sex Marriage,28,4,5,Bachelor,Finance,4,0
+313,Female,Opposite-Sex Marriage,5,4,4,Some College,Healthcare,3,0
+314,Male,Same-Sex Marriage,20,0,1,Bachelor,Healthcare,2,0
+315,Male,Same-Sex Marriage,10,1,3,Bachelor,Unemployed,2,0
+316,Female,Opposite-Sex Marriage,12,2,2,High School,Unemployed,5,0
+317,Male,Opposite-Sex Marriage,15,0,1,Master,Healthcare,1,0
+318,Male,Opposite-Sex Marriage,17,0,2,Master,Unemployed,2,0
+319,Male,Opposite-Sex Marriage,10,4,5,High School,Education,3,3
+320,Female,Opposite-Sex Marriage,6,0,3,High School,Healthcare,4,0
+321,Female,Opposite-Sex Marriage,18,0,3,Bachelor,Finance,3,0
+322,Male,Opposite-Sex Marriage,13,0,5,Doctorate,Education,2,0
+323,Female,Opposite-Sex Marriage,3,4,3,Bachelor,Unemployed,2,1
+324,Female,Opposite-Sex Marriage,24,2,4,High School,Retail,2,4
+325,Female,Opposite-Sex Marriage,10,2,2,Master,Tech,2,0
+326,Female,Same-Sex Marriage,14,0,1,Bachelor,Healthcare,3,0
+327,Male,Opposite-Sex Marriage,6,4,5,Doctorate,Retail,4,2
+328,Male,Opposite-Sex Marriage,3,2,4,Bachelor,Unemployed,2,0
+329,Female,Opposite-Sex Marriage,16,2,1,Some College,Finance,3,0
+330,Female,Opposite-Sex Marriage,7,2,1,Bachelor,Tech,3,0
+331,Male,Opposite-Sex Marriage,20,4,5,High School,Retail,5,0
+332,Male,Opposite-Sex Marriage,14,4,4,Master,Tech,5,0
+333,Female,Opposite-Sex Marriage,9,0,1,Master,Healthcare,4,0
+334,Male,Opposite-Sex Marriage,15,3,1,High School,Unemployed,2,0
+335,Female,Opposite-Sex Marriage,21,2,4,Some College,Finance,1,2
+336,Female,Opposite-Sex Marriage,3,3,3,High School,Unemployed,3,0
+337,Male,Same-Sex Marriage,2,4,1,Bachelor,Tech,2,1
+338,Male,Opposite-Sex Marriage,27,4,2,High School,Retail,3,0
+339,Female,Opposite-Sex Marriage,2,4,4,High School,Healthcare,4,0
+340,Female,Opposite-Sex Marriage,3,3,1,Some College,Healthcare,5,0
+341,Male,Opposite-Sex Marriage,18,4,5,Bachelor,Unemployed,4,2
+342,Female,Opposite-Sex Marriage,14,0,2,Doctorate,Retail,3,1
+343,Male,Opposite-Sex Marriage,20,4,1,Doctorate,Retail,4,0
+344,Female,Same-Sex Marriage,18,1,2,Master,Tech,3,1
+345,Male,Opposite-Sex Marriage,10,3,2,High School,Unemployed,1,0
+346,Male,Opposite-Sex Marriage,25,1,3,Master,Unemployed,4,3
+347,Male,Opposite-Sex Marriage,2,4,2,Some College,Education,1,0
+348,Female,Same-Sex Marriage,25,0,3,Doctorate,Unemployed,3,2
+349,Female,Opposite-Sex Marriage,29,2,4,High School,Healthcare,3,0
+350,Male,Opposite-Sex Marriage,22,4,3,Some College,Tech,4,0
+351,Female,Opposite-Sex Marriage,1,0,5,Some College,Retail,4,0
+352,Male,Opposite-Sex Marriage,4,3,1,High School,Unemployed,3,0
+353,Male,Opposite-Sex Marriage,14,1,4,Some College,Tech,4,0
+354,Female,Same-Sex Marriage,1,1,4,High School,Unemployed,2,0
+355,Female,Opposite-Sex Marriage,14,1,5,High School,Retail,3,0
+356,Male,Opposite-Sex Marriage,16,3,3,Bachelor,Finance,4,0
+357,Female,Opposite-Sex Marriage,22,0,1,Master,Retail,4,0
+358,Female,Opposite-Sex Marriage,14,3,3,Some College,Retail,5,0
+359,Male,Opposite-Sex Marriage,29,1,2,Some College,Retail,2,2
+360,Male,Opposite-Sex Marriage,20,4,3,Bachelor,Unemployed,4,0
+361,Female,Opposite-Sex Marriage,3,2,4,Bachelor,Education,4,0
+362,Male,Opposite-Sex Marriage,3,3,1,Bachelor,Retail,5,0
+363,Male,Opposite-Sex Marriage,9,3,3,Doctorate,Healthcare,2,0
+364,Female,Opposite-Sex Marriage,6,0,1,Doctorate,Healthcare,4,0
+365,Male,Opposite-Sex Marriage,25,0,1,Doctorate,Tech,3,0
+366,Male,Opposite-Sex Marriage,13,3,2,High School,Education,2,0
+367,Female,Opposite-Sex Marriage,21,1,2,Some College,Tech,3,3
+368,Female,Opposite-Sex Marriage,2,2,4,Master,Healthcare,3,0
+369,Male,Same-Sex Marriage,8,0,5,High School,Healthcare,3,0
+370,Male,Same-Sex Marriage,21,1,1,Some College,Finance,5,0
+371,Female,Opposite-Sex Marriage,2,4,5,Some College,Retail,3,0
+372,Female,Opposite-Sex Marriage,4,0,4,Bachelor,Healthcare,4,1
+373,Female,Opposite-Sex Marriage,25,1,1,Bachelor,Unemployed,3,0
+374,Female,Opposite-Sex Marriage,15,1,1,High School,Unemployed,1,0
+375,Male,Opposite-Sex Marriage,4,2,5,Bachelor,Tech,2,0
+376,Female,Opposite-Sex Marriage,13,2,3,Some College,Tech,3,0
+377,Female,Opposite-Sex Marriage,28,4,2,Bachelor,Retail,3,0
+378,Male,Opposite-Sex Marriage,12,1,3,Doctorate,Retail,2,1
+379,Female,Opposite-Sex Marriage,28,1,5,Bachelor,Finance,3,1
+380,Male,Opposite-Sex Marriage,13,2,2,Some College,Education,3,2
+381,Female,Opposite-Sex Marriage,14,0,3,High School,Tech,2,1
+382,Female,Opposite-Sex Marriage,20,0,2,Master,Retail,3,0
+383,Female,Opposite-Sex Marriage,18,3,1,Bachelor,Tech,2,0
+384,Male,Opposite-Sex Marriage,29,2,3,Some College,Retail,5,1
+385,Male,Opposite-Sex Marriage,28,3,2,Master,Healthcare,5,1
+386,Female,Opposite-Sex Marriage,6,2,2,Master,Tech,4,1
+387,Male,Opposite-Sex Marriage,29,4,2,Doctorate,Healthcare,2,0
+388,Male,Opposite-Sex Marriage,11,1,3,Master,Tech,4,0
+389,Male,Opposite-Sex Marriage,2,4,4,Some College,Education,4,1
+390,Male,Opposite-Sex Marriage,28,2,3,Some College,Finance,4,0
+391,Male,Opposite-Sex Marriage,23,1,5,Bachelor,Unemployed,2,3
+392,Male,Same-Sex Marriage,19,0,3,Bachelor,Unemployed,4,0
+393,Female,Opposite-Sex Marriage,19,0,2,Bachelor,Unemployed,4,0
+394,Female,Opposite-Sex Marriage,5,3,1,Master,Healthcare,3,0
+395,Male,Opposite-Sex Marriage,19,2,3,Master,Retail,4,1
+396,Female,Opposite-Sex Marriage,2,2,3,Doctorate,Unemployed,3,0
+397,Female,Opposite-Sex Marriage,10,0,2,Bachelor,Education,3,0
+398,Female,Same-Sex Marriage,25,4,1,High School,Unemployed,1,4
+399,Female,Opposite-Sex Marriage,2,1,1,Doctorate,Tech,4,0
+400,Male,Opposite-Sex Marriage,11,4,5,High School,Healthcare,1,1
+401,Female,Opposite-Sex Marriage,18,4,3,Master,Tech,3,0
+402,Female,Opposite-Sex Marriage,29,0,1,Doctorate,Tech,2,1
+403,Male,Opposite-Sex Marriage,24,0,1,Doctorate,Tech,3,0
+404,Male,Opposite-Sex Marriage,15,0,4,Some College,Finance,2,2
+405,Female,Opposite-Sex Marriage,9,3,4,Master,Finance,4,2
+406,Female,Same-Sex Marriage,23,4,1,Master,Retail,4,0
+407,Female,Opposite-Sex Marriage,19,2,5,Doctorate,Healthcare,2,0
+408,Female,Opposite-Sex Marriage,9,1,1,Master,Education,2,0
+409,Female,Opposite-Sex Marriage,3,3,2,Doctorate,Education,2,0
+410,Female,Opposite-Sex Marriage,21,2,3,Some College,Education,5,1
+411,Male,Opposite-Sex Marriage,9,4,5,Doctorate,Tech,3,0
+412,Female,Opposite-Sex Marriage,28,0,2,Master,Finance,3,0
+413,Female,Opposite-Sex Marriage,14,4,5,Master,Healthcare,2,0
+414,Male,Opposite-Sex Marriage,19,1,2,Doctorate,Tech,4,1
+415,Male,Opposite-Sex Marriage,7,3,3,Doctorate,Finance,5,3
+416,Male,Opposite-Sex Marriage,16,3,3,Doctorate,Finance,4,0
+417,Male,Opposite-Sex Marriage,16,1,4,Bachelor,Unemployed,4,0
+418,Female,Same-Sex Marriage,28,2,2,Master,Unemployed,1,0
+419,Female,Opposite-Sex Marriage,1,2,4,Master,Healthcare,2,0
+420,Female,Opposite-Sex Marriage,4,3,2,Bachelor,Healthcare,1,0
+421,Female,Same-Sex Marriage,4,3,4,Doctorate,Healthcare,2,0
+422,Female,Opposite-Sex Marriage,7,0,3,Some College,Tech,2,0
+423,Female,Same-Sex Marriage,8,2,5,Doctorate,Retail,2,0
+424,Male,Opposite-Sex Marriage,17,1,4,Doctorate,Healthcare,3,0
+425,Female,Opposite-Sex Marriage,5,2,2,Bachelor,Unemployed,5,0
+426,Male,Opposite-Sex Marriage,7,0,2,Master,Retail,4,0
+427,Male,Opposite-Sex Marriage,28,3,3,Doctorate,Tech,4,1
+428,Female,Opposite-Sex Marriage,20,3,2,Master,Retail,4,0
+429,Male,Opposite-Sex Marriage,29,0,1,High School,Education,2,0
+430,Female,Opposite-Sex Marriage,20,1,5,Master,Retail,4,0
+431,Male,Opposite-Sex Marriage,4,3,4,Some College,Healthcare,2,1
+432,Female,Opposite-Sex Marriage,28,4,5,Some College,Tech,4,2
+433,Male,Same-Sex Marriage,6,3,3,Doctorate,Healthcare,3,0
+434,Female,Opposite-Sex Marriage,7,4,4,Master,Unemployed,5,0
+435,Female,Opposite-Sex Marriage,18,0,4,Doctorate,Education,2,0
+436,Female,Opposite-Sex Marriage,5,0,1,Bachelor,Unemployed,2,0
+437,Female,Opposite-Sex Marriage,20,3,3,Some College,Healthcare,5,0
+438,Female,Same-Sex Marriage,29,2,2,Doctorate,Healthcare,1,0
+439,Male,Opposite-Sex Marriage,3,4,1,Bachelor,Healthcare,4,0
+440,Male,Opposite-Sex Marriage,7,1,1,Doctorate,Finance,4,0
+441,Male,Opposite-Sex Marriage,27,3,5,Master,Education,4,0
+442,Female,Opposite-Sex Marriage,28,1,5,Master,Healthcare,5,0
+443,Male,Opposite-Sex Marriage,22,3,5,Master,Healthcare,5,0
+444,Female,Opposite-Sex Marriage,14,2,1,Master,Unemployed,1,0
+445,Female,Opposite-Sex Marriage,7,2,2,High School,Unemployed,4,0
+446,Male,Opposite-Sex Marriage,5,2,4,Bachelor,Healthcare,4,1
+447,Male,Opposite-Sex Marriage,29,2,5,Bachelor,Tech,4,0
+448,Female,Same-Sex Marriage,22,0,2,Master,Finance,2,0
+449,Male,Same-Sex Marriage,5,0,3,High School,Unemployed,4,2
+450,Female,Opposite-Sex Marriage,23,4,5,Master,Tech,5,0
+451,Female,Opposite-Sex Marriage,2,1,4,High School,Finance,5,0
+452,Female,Opposite-Sex Marriage,27,3,3,Master,Healthcare,3,0
+453,Female,Opposite-Sex Marriage,21,3,3,Some College,Education,1,1
+454,Female,Same-Sex Marriage,22,0,4,Some College,Retail,3,2
+455,Male,Opposite-Sex Marriage,6,3,5,Doctorate,Retail,4,0
+456,Male,Opposite-Sex Marriage,15,0,1,Master,Healthcare,4,0
+457,Female,Opposite-Sex Marriage,21,4,4,Bachelor,Unemployed,3,0
+458,Female,Opposite-Sex Marriage,10,1,4,Doctorate,Tech,1,0
+459,Male,Opposite-Sex Marriage,23,4,4,Some College,Education,3,0
+460,Male,Opposite-Sex Marriage,26,2,3,Master,Finance,3,0
+461,Female,Opposite-Sex Marriage,24,2,2,Doctorate,Healthcare,5,0
+462,Male,Opposite-Sex Marriage,7,2,1,Master,Education,4,1
+463,Female,Opposite-Sex Marriage,5,4,5,Some College,Education,3,0
+464,Male,Opposite-Sex Marriage,1,3,5,Doctorate,Unemployed,3,0
+465,Female,Opposite-Sex Marriage,13,1,2,Some College,Finance,1,0
+466,Male,Opposite-Sex Marriage,21,2,4,High School,Education,5,1
+467,Female,Opposite-Sex Marriage,26,2,1,Some College,Unemployed,3,0
+468,Male,Opposite-Sex Marriage,18,2,5,Master,Tech,3,0
+469,Male,Opposite-Sex Marriage,13,1,5,Bachelor,Unemployed,3,0
+470,Female,Opposite-Sex Marriage,21,2,4,Some College,Tech,4,0
+471,Male,Opposite-Sex Marriage,21,1,2,Bachelor,Tech,4,2
+472,Female,Same-Sex Marriage,18,2,1,High School,Education,4,0
+473,Male,Opposite-Sex Marriage,5,4,2,Doctorate,Unemployed,2,0
+474,Female,Opposite-Sex Marriage,13,4,2,Doctorate,Tech,3,0
+475,Male,Opposite-Sex Marriage,4,1,1,Bachelor,Finance,2,0
+476,Female,Opposite-Sex Marriage,17,4,1,Doctorate,Education,4,1
+477,Male,Opposite-Sex Marriage,3,1,5,Some College,Unemployed,1,0
+478,Female,Opposite-Sex Marriage,17,4,5,Bachelor,Unemployed,3,0
+479,Male,Opposite-Sex Marriage,28,4,1,Master,Retail,5,0
+480,Female,Opposite-Sex Marriage,11,1,3,Some College,Unemployed,5,0
+481,Female,Opposite-Sex Marriage,21,3,5,Some College,Education,3,2
+482,Female,Opposite-Sex Marriage,20,4,3,Some College,Finance,3,0
+483,Male,Opposite-Sex Marriage,23,2,1,Master,Unemployed,1,1
+484,Female,Opposite-Sex Marriage,21,3,5,High School,Retail,4,1
+485,Male,Opposite-Sex Marriage,26,1,2,Doctorate,Education,4,0
+486,Female,Opposite-Sex Marriage,4,3,1,Bachelor,Tech,2,0
+487,Male,Opposite-Sex Marriage,2,0,4,High School,Healthcare,3,0
+488,Female,Opposite-Sex Marriage,20,0,3,Bachelor,Healthcare,4,0
+489,Male,Opposite-Sex Marriage,16,4,1,Doctorate,Tech,5,0
+490,Male,Opposite-Sex Marriage,28,4,1,Master,Unemployed,2,0
+491,Female,Opposite-Sex Marriage,18,2,5,Some College,Healthcare,3,0
+492,Male,Opposite-Sex Marriage,8,3,5,Some College,Healthcare,2,0
+493,Male,Opposite-Sex Marriage,3,0,5,Master,Tech,2,0
+494,Female,Opposite-Sex Marriage,9,4,4,High School,Unemployed,5,0
+495,Male,Opposite-Sex Marriage,29,3,5,High School,Unemployed,4,0
+496,Male,Opposite-Sex Marriage,20,4,1,Bachelor,Tech,4,0
+497,Male,Same-Sex Marriage,29,4,5,Master,Unemployed,1,1
+498,Female,Opposite-Sex Marriage,6,0,2,High School,Unemployed,4,0
+499,Male,Same-Sex Marriage,10,0,5,Master,Education,3,1
+500,Female,Opposite-Sex Marriage,21,4,4,Doctorate,Education,3,0
+501,Male,Opposite-Sex Marriage,10,1,2,Some College,Tech,3,0
+502,Male,Opposite-Sex Marriage,13,4,1,Some College,Finance,1,0
+503,Male,Same-Sex Marriage,17,4,1,Some College,Healthcare,4,0
+504,Female,Opposite-Sex Marriage,9,2,3,Master,Education,3,0
+505,Male,Opposite-Sex Marriage,17,2,2,Master,Healthcare,2,0
+506,Male,Opposite-Sex Marriage,24,2,3,Bachelor,Retail,2,0
+507,Female,Opposite-Sex Marriage,9,1,2,Some College,Tech,2,0
+508,Male,Opposite-Sex Marriage,9,1,2,Bachelor,Finance,1,0
+509,Female,Opposite-Sex Marriage,1,4,4,Some College,Retail,3,2
+510,Female,Opposite-Sex Marriage,2,2,3,Bachelor,Retail,4,0
+511,Male,Opposite-Sex Marriage,28,1,4,Bachelor,Unemployed,1,0
+512,Female,Same-Sex Marriage,16,0,2,Doctorate,Retail,1,0
+513,Male,Same-Sex Marriage,29,4,1,Bachelor,Tech,3,1
+514,Female,Opposite-Sex Marriage,1,3,2,Master,Education,4,1
+515,Female,Opposite-Sex Marriage,10,4,4,Bachelor,Tech,3,0
+516,Male,Same-Sex Marriage,18,3,3,Some College,Education,3,1
+517,Female,Opposite-Sex Marriage,26,2,3,Bachelor,Retail,3,0
+518,Female,Opposite-Sex Marriage,28,3,4,High School,Retail,2,0
+519,Female,Same-Sex Marriage,8,2,3,Some College,Finance,1,1
+520,Female,Opposite-Sex Marriage,21,0,5,High School,Education,4,1
+521,Female,Opposite-Sex Marriage,28,3,1,Some College,Retail,4,0
+522,Male,Opposite-Sex Marriage,11,4,1,Master,Unemployed,3,1
+523,Female,Same-Sex Marriage,23,2,1,Master,Healthcare,4,0
+524,Male,Same-Sex Marriage,2,4,3,Master,Finance,4,1
+525,Female,Same-Sex Marriage,8,1,3,High School,Tech,2,0
+526,Male,Opposite-Sex Marriage,27,2,2,Doctorate,Finance,3,0
+527,Male,Same-Sex Marriage,22,3,2,Some College,Healthcare,2,0
+528,Female,Opposite-Sex Marriage,8,2,1,Master,Education,2,0
+529,Female,Opposite-Sex Marriage,17,4,5,Some College,Tech,4,0
+530,Female,Opposite-Sex Marriage,15,0,2,High School,Tech,5,0
+531,Male,Opposite-Sex Marriage,17,2,2,Doctorate,Education,5,0
+532,Female,Opposite-Sex Marriage,28,3,3,High School,Finance,4,0
+533,Male,Opposite-Sex Marriage,23,1,5,Some College,Retail,2,0
+534,Male,Opposite-Sex Marriage,24,0,1,Doctorate,Finance,2,0
+535,Male,Opposite-Sex Marriage,13,1,2,Doctorate,Healthcare,4,0
+536,Female,Opposite-Sex Marriage,19,2,5,High School,Unemployed,3,0
+537,Female,Opposite-Sex Marriage,5,4,5,Master,Retail,4,1
+538,Male,Opposite-Sex Marriage,12,4,1,Some College,Finance,4,1
+539,Male,Opposite-Sex Marriage,1,3,5,Bachelor,Unemployed,4,0
+540,Female,Opposite-Sex Marriage,23,4,5,Bachelor,Unemployed,4,0
+541,Male,Opposite-Sex Marriage,5,0,5,High School,Education,1,0
+542,Female,Opposite-Sex Marriage,8,4,2,Some College,Healthcare,4,0
+543,Male,Opposite-Sex Marriage,13,3,1,Some College,Healthcare,5,0
+544,Female,Opposite-Sex Marriage,8,2,5,High School,Healthcare,2,1
+545,Male,Same-Sex Marriage,25,2,5,Some College,Retail,4,0
+546,Female,Opposite-Sex Marriage,23,4,2,Master,Tech,3,0
+547,Male,Opposite-Sex Marriage,11,1,1,High School,Retail,5,0
+548,Female,Opposite-Sex Marriage,1,2,3,Master,Finance,1,1
+549,Female,Same-Sex Marriage,13,4,2,Some College,Unemployed,3,0
+550,Male,Opposite-Sex Marriage,19,3,1,High School,Unemployed,2,0
+551,Male,Same-Sex Marriage,24,4,5,Some College,Tech,4,0
+552,Female,Opposite-Sex Marriage,3,2,1,High School,Finance,2,0
+553,Male,Same-Sex Marriage,24,3,1,Some College,Tech,2,0
+554,Female,Opposite-Sex Marriage,17,4,1,Master,Unemployed,3,0
+555,Male,Same-Sex Marriage,5,0,3,Master,Retail,5,1
+556,Female,Opposite-Sex Marriage,20,3,1,Some College,Healthcare,2,0
+557,Female,Opposite-Sex Marriage,21,0,3,High School,Unemployed,2,0
+558,Female,Opposite-Sex Marriage,8,1,5,Bachelor,Education,4,0
+559,Female,Opposite-Sex Marriage,26,3,3,Master,Healthcare,3,0
+560,Female,Opposite-Sex Marriage,14,0,5,Master,Unemployed,5,0
+561,Female,Same-Sex Marriage,4,2,5,Bachelor,Retail,2,0
+562,Male,Same-Sex Marriage,11,2,3,Some College,Tech,4,0
+563,Male,Opposite-Sex Marriage,20,1,2,High School,Healthcare,2,1
+564,Male,Opposite-Sex Marriage,15,3,4,Some College,Retail,2,0
+565,Female,Opposite-Sex Marriage,19,3,1,Doctorate,Finance,4,0
+566,Female,Opposite-Sex Marriage,7,3,4,Master,Education,3,1
+567,Female,Opposite-Sex Marriage,19,1,1,Doctorate,Healthcare,4,0
+568,Female,Opposite-Sex Marriage,28,3,1,Master,Tech,3,0
+569,Male,Opposite-Sex Marriage,19,2,5,Master,Finance,3,0
+570,Male,Opposite-Sex Marriage,11,0,1,Doctorate,Retail,3,0
+571,Female,Opposite-Sex Marriage,26,2,1,Doctorate,Education,5,1
+572,Male,Opposite-Sex Marriage,5,2,3,Some College,Tech,2,0
+573,Male,Opposite-Sex Marriage,5,0,4,Doctorate,Retail,2,0
+574,Female,Opposite-Sex Marriage,22,2,3,Some College,Retail,3,0
+575,Male,Same-Sex Marriage,8,1,1,Some College,Healthcare,3,0
+576,Female,Opposite-Sex Marriage,10,0,5,Some College,Healthcare,2,0
+577,Male,Opposite-Sex Marriage,6,2,3,Master,Tech,5,0
+578,Female,Opposite-Sex Marriage,15,4,3,Master,Unemployed,2,1
+579,Female,Opposite-Sex Marriage,16,2,2,Doctorate,Unemployed,5,2
+580,Female,Same-Sex Marriage,28,1,1,Master,Retail,2,0
+581,Female,Opposite-Sex Marriage,17,3,5,Doctorate,Healthcare,4,0
+582,Male,Opposite-Sex Marriage,8,2,3,Master,Education,5,2
+583,Female,Opposite-Sex Marriage,8,3,3,High School,Education,2,0
+584,Female,Same-Sex Marriage,25,4,5,High School,Retail,5,0
+585,Female,Same-Sex Marriage,9,2,1,Doctorate,Healthcare,3,0
+586,Male,Opposite-Sex Marriage,2,0,2,Master,Tech,5,1
+587,Female,Opposite-Sex Marriage,15,3,3,Master,Tech,4,1
+588,Male,Opposite-Sex Marriage,18,4,2,Some College,Tech,3,0
+589,Female,Same-Sex Marriage,3,0,4,Bachelor,Education,2,0
+590,Male,Opposite-Sex Marriage,17,0,1,Doctorate,Healthcare,3,0
+591,Male,Same-Sex Marriage,4,0,4,Bachelor,Healthcare,1,0
+592,Female,Opposite-Sex Marriage,4,0,4,Bachelor,Education,2,0
+593,Male,Opposite-Sex Marriage,14,2,4,Doctorate,Tech,2,1
+594,Female,Opposite-Sex Marriage,9,2,1,Master,Tech,3,0
+595,Female,Opposite-Sex Marriage,9,2,1,Doctorate,Retail,4,1
+596,Female,Opposite-Sex Marriage,25,4,5,Bachelor,Unemployed,2,0
+597,Male,Opposite-Sex Marriage,26,4,2,Master,Finance,2,0
+598,Male,Opposite-Sex Marriage,23,4,2,High School,Unemployed,4,0
+599,Female,Opposite-Sex Marriage,18,1,5,Doctorate,Healthcare,2,0
+600,Female,Opposite-Sex Marriage,10,4,5,Doctorate,Healthcare,1,0
+601,Male,Opposite-Sex Marriage,21,2,4,Master,Healthcare,2,3
+602,Female,Same-Sex Marriage,4,2,5,High School,Unemployed,5,1
+603,Female,Same-Sex Marriage,12,1,3,High School,Finance,4,0
+604,Female,Same-Sex Marriage,27,1,2,Master,Retail,3,0
+605,Male,Same-Sex Marriage,8,4,5,Some College,Unemployed,4,2
+606,Male,Opposite-Sex Marriage,2,3,3,Doctorate,Finance,3,0
+607,Male,Opposite-Sex Marriage,22,1,3,Doctorate,Tech,4,0
+608,Female,Opposite-Sex Marriage,13,0,3,Bachelor,Tech,4,0
+609,Female,Opposite-Sex Marriage,21,2,3,Master,Healthcare,4,2
+610,Female,Opposite-Sex Marriage,16,0,4,Bachelor,Education,2,0
+611,Male,Opposite-Sex Marriage,28,2,3,Bachelor,Healthcare,1,0
+612,Female,Opposite-Sex Marriage,2,2,4,High School,Education,3,2
+613,Female,Opposite-Sex Marriage,11,1,4,Doctorate,Finance,5,0
+614,Female,Opposite-Sex Marriage,10,1,3,Bachelor,Tech,3,0
+615,Female,Opposite-Sex Marriage,15,0,2,High School,Unemployed,4,0
+616,Male,Opposite-Sex Marriage,17,2,3,Master,Education,5,1
+617,Male,Opposite-Sex Marriage,8,0,3,Bachelor,Finance,2,0
+618,Female,Same-Sex Marriage,18,3,3,Doctorate,Tech,4,4
+619,Male,Opposite-Sex Marriage,23,0,2,Bachelor,Unemployed,4,0
+620,Male,Opposite-Sex Marriage,9,4,1,Master,Education,5,0
+621,Female,Same-Sex Marriage,25,0,1,Bachelor,Healthcare,5,4
+622,Female,Same-Sex Marriage,8,4,4,Doctorate,Healthcare,4,0
+623,Male,Same-Sex Marriage,27,4,4,High School,Healthcare,2,0
+624,Female,Opposite-Sex Marriage,14,4,2,Doctorate,Finance,4,0
+625,Male,Opposite-Sex Marriage,28,3,5,High School,Healthcare,2,0
+626,Female,Opposite-Sex Marriage,26,0,1,Some College,Retail,4,0
+627,Male,Opposite-Sex Marriage,25,0,4,Doctorate,Tech,5,0
+628,Female,Opposite-Sex Marriage,18,3,1,Doctorate,Finance,3,0
+629,Male,Opposite-Sex Marriage,22,2,2,Master,Unemployed,4,1
+630,Male,Opposite-Sex Marriage,20,1,2,Bachelor,Healthcare,3,0
+631,Male,Opposite-Sex Marriage,20,0,5,High School,Tech,3,4
+632,Female,Opposite-Sex Marriage,21,1,5,High School,Education,3,0
+633,Male,Opposite-Sex Marriage,12,3,2,Master,Healthcare,4,0
+634,Male,Opposite-Sex Marriage,19,2,4,Master,Tech,5,0
+635,Female,Opposite-Sex Marriage,14,2,1,Bachelor,Retail,5,0
+636,Female,Opposite-Sex Marriage,17,2,3,Bachelor,Education,2,0
+637,Male,Same-Sex Marriage,24,3,5,Doctorate,Retail,5,1
+638,Male,Opposite-Sex Marriage,21,4,3,Some College,Unemployed,4,2
+639,Female,Opposite-Sex Marriage,3,4,4,Bachelor,Tech,2,3
+640,Female,Opposite-Sex Marriage,26,1,5,Master,Retail,1,0
+641,Female,Opposite-Sex Marriage,23,4,3,Bachelor,Unemployed,2,1
+642,Female,Opposite-Sex Marriage,7,4,4,High School,Tech,5,0
+643,Female,Opposite-Sex Marriage,17,2,1,Some College,Tech,4,0
+644,Male,Opposite-Sex Marriage,12,2,4,Doctorate,Retail,4,1
+645,Female,Opposite-Sex Marriage,9,1,5,High School,Tech,2,0
+646,Male,Same-Sex Marriage,15,0,2,High School,Healthcare,4,0
+647,Male,Opposite-Sex Marriage,18,1,1,Some College,Tech,1,0
+648,Male,Opposite-Sex Marriage,21,1,3,Doctorate,Finance,3,0
+649,Female,Same-Sex Marriage,13,3,5,Master,Unemployed,4,0
+650,Male,Same-Sex Marriage,21,3,2,Doctorate,Tech,2,0
+651,Male,Opposite-Sex Marriage,8,1,4,Bachelor,Finance,4,3
+652,Female,Opposite-Sex Marriage,14,1,2,High School,Tech,2,0
+653,Male,Opposite-Sex Marriage,8,1,5,Bachelor,Tech,4,0
+654,Male,Opposite-Sex Marriage,14,4,5,Master,Retail,3,0
+655,Female,Opposite-Sex Marriage,7,3,2,Bachelor,Healthcare,3,0
+656,Male,Opposite-Sex Marriage,23,1,4,Doctorate,Unemployed,2,0
+657,Male,Opposite-Sex Marriage,12,2,2,Bachelor,Healthcare,1,0
+658,Male,Same-Sex Marriage,11,2,5,Master,Education,5,1
+659,Female,Same-Sex Marriage,22,4,5,Master,Retail,2,2
+660,Female,Opposite-Sex Marriage,22,4,3,Master,Retail,4,1
+661,Female,Opposite-Sex Marriage,11,0,3,Doctorate,Healthcare,5,1
+662,Male,Opposite-Sex Marriage,25,0,1,Master,Retail,2,0
+663,Male,Opposite-Sex Marriage,22,0,5,High School,Healthcare,2,1
+664,Female,Opposite-Sex Marriage,28,4,3,Master,Retail,4,0
+665,Male,Opposite-Sex Marriage,29,4,2,Bachelor,Tech,5,0
+666,Male,Opposite-Sex Marriage,13,4,4,Bachelor,Healthcare,5,0
+667,Female,Opposite-Sex Marriage,18,2,2,Bachelor,Healthcare,3,0
+668,Female,Opposite-Sex Marriage,2,4,4,Doctorate,Finance,4,0
+669,Male,Opposite-Sex Marriage,29,2,3,Bachelor,Retail,2,3
+670,Male,Opposite-Sex Marriage,21,0,1,Doctorate,Retail,5,0
+671,Male,Opposite-Sex Marriage,15,0,2,Doctorate,Healthcare,5,0
+672,Female,Same-Sex Marriage,20,0,2,Master,Tech,2,0
+673,Female,Opposite-Sex Marriage,27,1,2,High School,Tech,2,0
+674,Female,Opposite-Sex Marriage,18,1,4,Master,Unemployed,2,0
+675,Female,Opposite-Sex Marriage,15,3,3,Master,Tech,2,0
+676,Male,Opposite-Sex Marriage,19,3,2,Doctorate,Retail,4,0
+677,Female,Opposite-Sex Marriage,23,3,2,Doctorate,Finance,3,0
+678,Female,Opposite-Sex Marriage,24,1,1,Bachelor,Healthcare,1,1
+679,Female,Opposite-Sex Marriage,12,1,1,Bachelor,Education,3,0
+680,Female,Opposite-Sex Marriage,13,3,3,Master,Finance,5,0
+681,Female,Same-Sex Marriage,22,3,3,Some College,Education,4,0
+682,Male,Opposite-Sex Marriage,11,4,5,Some College,Finance,3,0
+683,Male,Opposite-Sex Marriage,5,3,1,Bachelor,Tech,2,1
+684,Female,Same-Sex Marriage,29,4,5,Some College,Retail,5,0
+685,Male,Opposite-Sex Marriage,1,2,4,Bachelor,Education,4,0
+686,Female,Same-Sex Marriage,24,1,5,Doctorate,Finance,2,1
+687,Female,Opposite-Sex Marriage,3,3,2,Master,Retail,1,0
+688,Male,Opposite-Sex Marriage,22,1,5,High School,Education,1,0
+689,Male,Opposite-Sex Marriage,19,1,3,Master,Healthcare,2,0
+690,Female,Opposite-Sex Marriage,23,1,4,Bachelor,Finance,3,2
+691,Female,Opposite-Sex Marriage,29,2,2,Bachelor,Healthcare,5,1
+692,Female,Opposite-Sex Marriage,7,0,5,Master,Tech,3,0
+693,Male,Opposite-Sex Marriage,12,3,4,Bachelor,Healthcare,4,0
+694,Female,Opposite-Sex Marriage,15,0,4,Some College,Healthcare,3,0
+695,Female,Opposite-Sex Marriage,25,0,2,Some College,Unemployed,4,3
+696,Female,Same-Sex Marriage,5,0,5,Bachelor,Finance,4,3
+697,Male,Same-Sex Marriage,15,1,4,Bachelor,Tech,2,0
+698,Female,Same-Sex Marriage,8,4,4,Some College,Healthcare,3,1
+699,Female,Opposite-Sex Marriage,10,1,1,Bachelor,Retail,4,0
+700,Male,Opposite-Sex Marriage,26,1,4,Bachelor,Education,1,0
+701,Female,Opposite-Sex Marriage,16,0,1,Master,Healthcare,3,0
+702,Female,Opposite-Sex Marriage,8,1,5,High School,Tech,3,0
+703,Male,Opposite-Sex Marriage,1,0,5,Some College,Healthcare,5,2
+704,Female,Opposite-Sex Marriage,12,4,5,Master,Education,3,0
+705,Male,Opposite-Sex Marriage,5,3,3,High School,Tech,4,0
+706,Male,Opposite-Sex Marriage,3,0,5,Bachelor,Finance,3,2
+707,Female,Opposite-Sex Marriage,1,4,4,Bachelor,Tech,4,2
+708,Female,Opposite-Sex Marriage,4,3,2,Master,Finance,3,0
+709,Female,Opposite-Sex Marriage,8,2,1,Bachelor,Tech,5,0
+710,Female,Same-Sex Marriage,3,0,3,Doctorate,Education,3,0
+711,Male,Opposite-Sex Marriage,10,0,5,Master,Education,4,0
+712,Female,Opposite-Sex Marriage,2,2,5,High School,Tech,4,3
+713,Male,Opposite-Sex Marriage,11,2,2,Master,Healthcare,3,2
+714,Female,Opposite-Sex Marriage,25,0,2,Some College,Education,2,0
+715,Female,Opposite-Sex Marriage,10,2,3,Master,Finance,1,0
+716,Female,Opposite-Sex Marriage,21,1,1,Bachelor,Finance,1,0
+717,Male,Opposite-Sex Marriage,14,3,5,Bachelor,Retail,5,2
+718,Female,Opposite-Sex Marriage,7,3,3,Doctorate,Unemployed,2,0
+719,Female,Opposite-Sex Marriage,27,3,4,Doctorate,Unemployed,2,0
+720,Female,Opposite-Sex Marriage,27,1,4,Doctorate,Unemployed,4,0
+721,Female,Same-Sex Marriage,2,2,3,High School,Finance,3,0
+722,Male,Opposite-Sex Marriage,9,4,5,Doctorate,Retail,3,0
+723,Female,Opposite-Sex Marriage,16,2,3,High School,Unemployed,2,0
+724,Male,Same-Sex Marriage,13,0,5,Doctorate,Unemployed,5,2
+725,Male,Opposite-Sex Marriage,9,3,2,High School,Tech,5,2
+726,Male,Opposite-Sex Marriage,20,2,3,Master,Tech,5,1
+727,Male,Opposite-Sex Marriage,4,4,5,Master,Tech,3,0
+728,Male,Opposite-Sex Marriage,22,0,3,Bachelor,Healthcare,4,0
+729,Male,Same-Sex Marriage,10,1,3,High School,Unemployed,2,0
+730,Female,Opposite-Sex Marriage,26,1,5,Some College,Healthcare,1,0
+731,Male,Same-Sex Marriage,26,4,5,Bachelor,Retail,1,2
+732,Male,Opposite-Sex Marriage,22,0,1,Master,Finance,3,0
+733,Male,Opposite-Sex Marriage,12,3,3,High School,Unemployed,3,0
+734,Female,Opposite-Sex Marriage,17,2,4,Doctorate,Finance,3,2
+735,Female,Opposite-Sex Marriage,14,0,3,Some College,Tech,1,2
+736,Male,Opposite-Sex Marriage,14,1,3,Master,Unemployed,3,0
+737,Female,Same-Sex Marriage,25,4,5,Bachelor,Education,4,0
+738,Male,Opposite-Sex Marriage,2,4,3,High School,Healthcare,3,0
+739,Male,Same-Sex Marriage,21,2,3,Some College,Healthcare,4,0
+740,Female,Opposite-Sex Marriage,25,4,4,High School,Unemployed,2,0
+741,Male,Same-Sex Marriage,20,4,5,Doctorate,Tech,4,0
+742,Female,Opposite-Sex Marriage,11,0,3,Bachelor,Healthcare,3,2
+743,Female,Opposite-Sex Marriage,16,3,2,High School,Tech,2,0
+744,Male,Opposite-Sex Marriage,19,2,1,Master,Retail,2,0
+745,Male,Opposite-Sex Marriage,23,0,4,Bachelor,Finance,4,0
+746,Female,Opposite-Sex Marriage,6,3,3,Master,Education,4,0
+747,Male,Opposite-Sex Marriage,24,0,2,High School,Finance,3,1
+748,Male,Opposite-Sex Marriage,19,0,3,Bachelor,Finance,2,0
+749,Male,Same-Sex Marriage,5,4,3,Master,Retail,5,0
+750,Female,Opposite-Sex Marriage,26,3,5,Doctorate,Healthcare,4,0
+751,Female,Opposite-Sex Marriage,4,2,5,Doctorate,Education,3,1
+752,Male,Opposite-Sex Marriage,15,2,5,High School,Healthcare,3,0
+753,Female,Opposite-Sex Marriage,29,3,2,Bachelor,Unemployed,2,1
+754,Female,Opposite-Sex Marriage,4,4,3,Some College,Finance,4,0
+755,Female,Opposite-Sex Marriage,20,1,1,Bachelor,Unemployed,3,0
+756,Female,Opposite-Sex Marriage,10,0,4,Doctorate,Tech,5,0
+757,Female,Opposite-Sex Marriage,24,4,5,Master,Finance,3,2
+758,Male,Opposite-Sex Marriage,22,3,5,Some College,Healthcare,3,2
+759,Male,Opposite-Sex Marriage,3,0,3,High School,Finance,3,0
+760,Male,Opposite-Sex Marriage,26,2,3,Some College,Tech,5,0
+761,Female,Opposite-Sex Marriage,5,1,2,High School,Retail,4,0
+762,Female,Opposite-Sex Marriage,6,2,2,Some College,Unemployed,3,0
+763,Male,Opposite-Sex Marriage,21,3,5,High School,Unemployed,4,0
+764,Female,Opposite-Sex Marriage,22,0,3,High School,Healthcare,3,2
+765,Male,Opposite-Sex Marriage,8,3,1,Some College,Finance,3,2
+766,Male,Opposite-Sex Marriage,7,0,4,Some College,Healthcare,2,0
+767,Male,Opposite-Sex Marriage,21,4,3,High School,Retail,3,0
+768,Female,Opposite-Sex Marriage,10,1,3,Doctorate,Finance,2,1
+769,Female,Opposite-Sex Marriage,6,4,2,Some College,Finance,5,1
+770,Male,Opposite-Sex Marriage,14,4,4,Bachelor,Healthcare,3,0
+771,Male,Opposite-Sex Marriage,4,3,5,Master,Healthcare,5,0
+772,Male,Same-Sex Marriage,28,1,3,High School,Tech,3,0
+773,Male,Opposite-Sex Marriage,25,0,5,High School,Retail,4,0
+774,Female,Opposite-Sex Marriage,13,0,3,Master,Tech,3,0
+775,Female,Opposite-Sex Marriage,20,2,5,Doctorate,Unemployed,2,0
+776,Male,Opposite-Sex Marriage,17,0,4,Master,Finance,3,0
+777,Male,Opposite-Sex Marriage,23,3,2,Some College,Healthcare,1,0
+778,Female,Same-Sex Marriage,7,4,4,Master,Finance,4,0
+779,Female,Opposite-Sex Marriage,4,4,1,High School,Finance,3,0
+780,Male,Opposite-Sex Marriage,29,4,2,Master,Education,4,1
+781,Male,Opposite-Sex Marriage,14,1,4,Bachelor,Unemployed,2,1
+782,Male,Opposite-Sex Marriage,3,0,1,Some College,Education,2,0
+783,Female,Opposite-Sex Marriage,24,3,3,Master,Finance,3,0
+784,Female,Opposite-Sex Marriage,5,1,3,High School,Healthcare,5,3
+785,Female,Opposite-Sex Marriage,16,2,5,Some College,Finance,4,0
+786,Male,Opposite-Sex Marriage,26,3,2,High School,Unemployed,3,0
+787,Male,Opposite-Sex Marriage,23,3,3,Doctorate,Education,3,0
+788,Female,Opposite-Sex Marriage,20,3,2,Bachelor,Healthcare,1,0
+789,Female,Opposite-Sex Marriage,4,4,3,Doctorate,Finance,5,0
+790,Male,Opposite-Sex Marriage,24,3,5,Bachelor,Retail,4,2
+791,Female,Opposite-Sex Marriage,24,0,4,Master,Unemployed,2,0
+792,Female,Opposite-Sex Marriage,2,3,5,Some College,Unemployed,3,0
+793,Male,Opposite-Sex Marriage,18,4,1,Master,Retail,2,2
+794,Female,Opposite-Sex Marriage,19,3,3,Bachelor,Finance,5,0
+795,Male,Opposite-Sex Marriage,28,2,1,Bachelor,Unemployed,2,0
+796,Male,Opposite-Sex Marriage,28,2,1,Bachelor,Healthcare,4,0
+797,Male,Opposite-Sex Marriage,19,4,2,High School,Finance,2,0
+798,Male,Opposite-Sex Marriage,17,0,3,Some College,Finance,4,0
+799,Male,Opposite-Sex Marriage,14,0,1,Master,Education,4,0
+800,Male,Opposite-Sex Marriage,19,1,4,Master,Unemployed,4,0
+801,Male,Opposite-Sex Marriage,22,4,1,Doctorate,Unemployed,4,0
+802,Female,Same-Sex Marriage,24,3,4,Bachelor,Retail,5,0
+803,Male,Opposite-Sex Marriage,13,4,2,Bachelor,Education,1,0
+804,Male,Opposite-Sex Marriage,12,1,1,Bachelor,Education,3,0
+805,Female,Opposite-Sex Marriage,26,4,5,Master,Unemployed,2,0
+806,Female,Same-Sex Marriage,6,4,2,Doctorate,Finance,5,0
+807,Female,Opposite-Sex Marriage,21,1,4,High School,Education,3,2
+808,Male,Opposite-Sex Marriage,4,0,2,Some College,Retail,4,0
+809,Female,Opposite-Sex Marriage,19,3,1,High School,Education,4,0
+810,Male,Opposite-Sex Marriage,16,1,3,Master,Retail,2,1
+811,Male,Opposite-Sex Marriage,13,2,3,Bachelor,Education,2,0
+812,Male,Same-Sex Marriage,4,0,4,Some College,Retail,2,0
+813,Male,Opposite-Sex Marriage,23,2,4,Master,Education,3,1
+814,Female,Opposite-Sex Marriage,17,0,3,Master,Education,2,1
+815,Female,Opposite-Sex Marriage,23,3,4,Master,Healthcare,1,0
+816,Male,Opposite-Sex Marriage,1,3,2,Some College,Retail,5,0
+817,Male,Opposite-Sex Marriage,18,4,5,Some College,Retail,5,0
+818,Male,Opposite-Sex Marriage,20,2,5,Doctorate,Retail,3,1
+819,Female,Opposite-Sex Marriage,17,0,2,Doctorate,Tech,3,0
+820,Male,Opposite-Sex Marriage,27,3,5,High School,Education,1,0
+821,Male,Opposite-Sex Marriage,28,1,1,Some College,Retail,4,1
+822,Female,Opposite-Sex Marriage,27,3,2,Some College,Unemployed,4,0
+823,Female,Same-Sex Marriage,15,1,4,Some College,Tech,2,1
+824,Male,Opposite-Sex Marriage,11,0,2,Doctorate,Healthcare,2,0
+825,Female,Same-Sex Marriage,25,3,3,Master,Retail,4,0
+826,Female,Opposite-Sex Marriage,28,3,4,Bachelor,Retail,4,0
+827,Male,Opposite-Sex Marriage,22,0,3,Doctorate,Tech,1,1
+828,Female,Opposite-Sex Marriage,13,3,4,Some College,Education,4,0
+829,Male,Opposite-Sex Marriage,1,1,5,Doctorate,Unemployed,3,0
+830,Female,Opposite-Sex Marriage,17,3,2,High School,Healthcare,3,0
+831,Male,Opposite-Sex Marriage,6,2,1,Some College,Retail,4,0
+832,Male,Opposite-Sex Marriage,4,4,4,High School,Education,4,2
+833,Male,Opposite-Sex Marriage,20,1,4,Some College,Unemployed,3,0
+834,Female,Same-Sex Marriage,16,2,3,Doctorate,Unemployed,5,0
+835,Male,Same-Sex Marriage,15,0,5,Master,Healthcare,3,2
+836,Female,Opposite-Sex Marriage,27,1,3,Bachelor,Finance,4,0
+837,Male,Opposite-Sex Marriage,15,4,3,High School,Unemployed,3,0
+838,Male,Opposite-Sex Marriage,6,4,5,Doctorate,Finance,5,0
+839,Female,Opposite-Sex Marriage,15,0,1,Master,Unemployed,5,1
+840,Male,Opposite-Sex Marriage,14,0,3,Doctorate,Healthcare,1,0
+841,Male,Opposite-Sex Marriage,28,1,3,High School,Tech,5,0
+842,Female,Opposite-Sex Marriage,11,3,4,Bachelor,Healthcare,4,0
+843,Male,Same-Sex Marriage,7,0,5,Doctorate,Healthcare,4,0
+844,Male,Opposite-Sex Marriage,9,3,2,Some College,Tech,2,0
+845,Male,Opposite-Sex Marriage,26,2,1,Master,Tech,4,0
+846,Male,Opposite-Sex Marriage,16,4,1,Doctorate,Education,5,0
+847,Female,Opposite-Sex Marriage,5,3,5,Master,Unemployed,2,0
+848,Female,Opposite-Sex Marriage,25,4,4,Some College,Education,5,0
+849,Male,Same-Sex Marriage,20,3,4,Bachelor,Tech,1,0
+850,Female,Opposite-Sex Marriage,29,2,5,Bachelor,Finance,2,1
+851,Male,Same-Sex Marriage,10,0,4,Some College,Finance,3,1
+852,Female,Opposite-Sex Marriage,18,2,1,Master,Healthcare,3,0
+853,Male,Opposite-Sex Marriage,3,0,1,Doctorate,Retail,4,0
+854,Male,Opposite-Sex Marriage,13,0,2,Some College,Healthcare,1,0
+855,Male,Opposite-Sex Marriage,11,4,5,High School,Healthcare,5,2
+856,Male,Same-Sex Marriage,17,2,3,Master,Retail,1,1
+857,Male,Same-Sex Marriage,22,3,3,Bachelor,Unemployed,2,1
+858,Male,Opposite-Sex Marriage,13,2,2,Some College,Tech,1,0
+859,Female,Opposite-Sex Marriage,6,4,2,Bachelor,Finance,3,0
+860,Male,Opposite-Sex Marriage,17,0,4,Master,Healthcare,5,0
+861,Female,Same-Sex Marriage,27,4,2,Bachelor,Retail,4,0
+862,Male,Opposite-Sex Marriage,13,1,2,Some College,Education,4,0
+863,Female,Opposite-Sex Marriage,19,1,3,Master,Healthcare,1,2
+864,Female,Opposite-Sex Marriage,21,3,4,High School,Finance,3,0
+865,Female,Opposite-Sex Marriage,19,4,2,Some College,Tech,3,0
+866,Male,Opposite-Sex Marriage,10,3,2,Doctorate,Healthcare,3,0
+867,Male,Opposite-Sex Marriage,3,3,4,Some College,Healthcare,1,2
+868,Female,Same-Sex Marriage,14,1,5,Master,Unemployed,4,0
+869,Male,Opposite-Sex Marriage,26,3,4,Some College,Retail,3,0
+870,Female,Opposite-Sex Marriage,19,1,3,High School,Education,4,2
+871,Male,Same-Sex Marriage,5,0,5,High School,Education,3,0
+872,Female,Opposite-Sex Marriage,29,4,1,Doctorate,Tech,2,0
+873,Female,Same-Sex Marriage,5,3,4,Bachelor,Finance,4,0
+874,Male,Opposite-Sex Marriage,20,1,3,Master,Tech,2,0
+875,Female,Opposite-Sex Marriage,17,2,5,Master,Healthcare,5,1
+876,Male,Same-Sex Marriage,21,3,4,Bachelor,Healthcare,4,1
+877,Female,Opposite-Sex Marriage,10,0,2,High School,Education,2,0
+878,Female,Opposite-Sex Marriage,5,0,4,High School,Finance,5,0
+879,Male,Opposite-Sex Marriage,4,2,1,Some College,Retail,3,0
+880,Male,Opposite-Sex Marriage,6,1,4,Doctorate,Finance,1,0
+881,Male,Opposite-Sex Marriage,26,3,5,Doctorate,Healthcare,4,0
+882,Female,Opposite-Sex Marriage,4,1,5,Doctorate,Retail,2,0
+883,Male,Same-Sex Marriage,7,0,4,Some College,Finance,4,0
+884,Female,Opposite-Sex Marriage,7,1,5,Doctorate,Finance,4,1
+885,Female,Opposite-Sex Marriage,18,0,2,Bachelor,Retail,5,0
+886,Male,Opposite-Sex Marriage,3,1,4,Some College,Healthcare,3,0
+887,Male,Opposite-Sex Marriage,1,2,2,Bachelor,Finance,3,0
+888,Female,Opposite-Sex Marriage,24,4,2,Some College,Retail,4,1
+889,Female,Same-Sex Marriage,25,2,3,Doctorate,Unemployed,2,0
+890,Male,Opposite-Sex Marriage,4,2,4,Bachelor,Unemployed,3,0
+891,Male,Opposite-Sex Marriage,6,4,5,Bachelor,Healthcare,3,0
+892,Male,Opposite-Sex Marriage,9,4,2,Bachelor,Retail,1,0
+893,Male,Opposite-Sex Marriage,22,3,3,Some College,Unemployed,3,0
+894,Male,Opposite-Sex Marriage,14,3,4,Master,Retail,5,1
+895,Female,Opposite-Sex Marriage,28,2,4,Doctorate,Finance,5,2
+896,Female,Opposite-Sex Marriage,12,2,1,Bachelor,Healthcare,1,1
+897,Female,Opposite-Sex Marriage,28,0,1,Master,Unemployed,1,0
+898,Female,Opposite-Sex Marriage,25,0,2,Doctorate,Finance,2,0
+899,Male,Opposite-Sex Marriage,20,3,1,Doctorate,Tech,5,0
+900,Male,Opposite-Sex Marriage,24,3,2,Bachelor,Tech,2,3
+901,Male,Opposite-Sex Marriage,25,0,5,Bachelor,Healthcare,4,0
+902,Female,Opposite-Sex Marriage,4,0,2,Some College,Unemployed,2,0
+903,Female,Opposite-Sex Marriage,21,1,1,Master,Unemployed,4,0
+904,Male,Opposite-Sex Marriage,24,1,5,Master,Unemployed,3,0
+905,Male,Opposite-Sex Marriage,12,0,1,Bachelor,Retail,4,0
+906,Female,Opposite-Sex Marriage,10,1,2,Doctorate,Finance,2,0
+907,Female,Opposite-Sex Marriage,22,4,3,Bachelor,Unemployed,4,0
+908,Male,Opposite-Sex Marriage,28,3,4,Doctorate,Finance,2,1
+909,Male,Opposite-Sex Marriage,7,3,1,Doctorate,Healthcare,4,0
+910,Female,Same-Sex Marriage,3,0,2,Bachelor,Unemployed,5,0
+911,Male,Opposite-Sex Marriage,23,2,5,High School,Healthcare,2,0
+912,Male,Opposite-Sex Marriage,28,0,1,Master,Unemployed,5,0
+913,Male,Opposite-Sex Marriage,14,1,1,Doctorate,Tech,3,1
+914,Female,Opposite-Sex Marriage,24,2,4,Doctorate,Education,2,0
+915,Female,Opposite-Sex Marriage,10,1,2,High School,Healthcare,3,0
+916,Female,Same-Sex Marriage,16,4,3,Some College,Unemployed,2,0
+917,Female,Opposite-Sex Marriage,16,1,5,High School,Education,4,2
+918,Female,Opposite-Sex Marriage,22,4,2,High School,Healthcare,4,0
+919,Female,Opposite-Sex Marriage,10,4,5,Doctorate,Retail,2,0
+920,Female,Same-Sex Marriage,25,1,1,Master,Unemployed,3,0
+921,Male,Opposite-Sex Marriage,13,1,4,High School,Retail,4,0
+922,Male,Opposite-Sex Marriage,6,4,4,Some College,Tech,5,0
+923,Male,Opposite-Sex Marriage,12,2,3,Bachelor,Unemployed,3,1
+924,Male,Opposite-Sex Marriage,9,4,4,High School,Tech,5,0
+925,Male,Same-Sex Marriage,13,3,1,High School,Education,3,2
+926,Male,Same-Sex Marriage,4,4,3,Some College,Healthcare,3,0
+927,Male,Opposite-Sex Marriage,24,2,2,Master,Finance,4,0
+928,Female,Same-Sex Marriage,11,3,4,High School,Tech,3,0
+929,Female,Opposite-Sex Marriage,20,0,3,High School,Finance,3,1
+930,Male,Same-Sex Marriage,18,0,1,Master,Finance,3,0
+931,Male,Opposite-Sex Marriage,26,2,5,Some College,Healthcare,4,1
+932,Female,Opposite-Sex Marriage,11,4,5,High School,Education,4,2
+933,Male,Opposite-Sex Marriage,25,1,1,Master,Healthcare,3,2
+934,Male,Opposite-Sex Marriage,21,2,1,High School,Unemployed,3,0
+935,Female,Opposite-Sex Marriage,4,3,5,Bachelor,Tech,3,0
+936,Male,Opposite-Sex Marriage,18,3,3,Doctorate,Finance,3,1
+937,Female,Opposite-Sex Marriage,1,0,5,Bachelor,Healthcare,2,0
+938,Male,Opposite-Sex Marriage,27,3,1,High School,Healthcare,4,0
+939,Female,Opposite-Sex Marriage,7,2,4,Some College,Healthcare,3,0
+940,Female,Opposite-Sex Marriage,6,3,2,Doctorate,Tech,3,0
+941,Female,Same-Sex Marriage,15,2,4,Bachelor,Education,2,0
+942,Male,Opposite-Sex Marriage,18,1,4,Master,Healthcare,2,0
+943,Female,Opposite-Sex Marriage,24,0,1,Some College,Tech,5,0
+944,Male,Opposite-Sex Marriage,11,3,5,Bachelor,Finance,3,0
+945,Male,Same-Sex Marriage,20,2,3,Master,Unemployed,2,0
+946,Male,Opposite-Sex Marriage,24,4,4,High School,Retail,3,0
+947,Male,Opposite-Sex Marriage,15,0,5,Master,Tech,3,0
+948,Female,Opposite-Sex Marriage,16,1,3,Bachelor,Retail,1,0
+949,Female,Same-Sex Marriage,7,2,4,Bachelor,Healthcare,3,0
+950,Male,Opposite-Sex Marriage,21,1,3,High School,Healthcare,3,0
+951,Male,Opposite-Sex Marriage,10,1,5,Master,Tech,3,0
+952,Female,Opposite-Sex Marriage,26,3,2,Master,Retail,3,0
+953,Male,Same-Sex Marriage,12,3,5,High School,Healthcare,3,0
+954,Female,Opposite-Sex Marriage,24,2,1,Master,Finance,5,1
+955,Male,Opposite-Sex Marriage,14,4,3,High School,Education,3,0
+956,Male,Same-Sex Marriage,25,2,2,Some College,Education,2,0
+957,Female,Opposite-Sex Marriage,5,4,3,Bachelor,Healthcare,2,0
+958,Male,Opposite-Sex Marriage,26,1,3,Some College,Retail,3,0
+959,Female,Opposite-Sex Marriage,21,0,4,Doctorate,Unemployed,4,0
+960,Male,Opposite-Sex Marriage,18,2,1,Doctorate,Healthcare,2,0
+961,Male,Opposite-Sex Marriage,5,2,3,Doctorate,Unemployed,4,0
+962,Male,Opposite-Sex Marriage,3,4,5,High School,Unemployed,1,0
+963,Female,Opposite-Sex Marriage,23,1,5,Master,Retail,3,0
+964,Male,Opposite-Sex Marriage,26,1,4,Some College,Unemployed,4,2
+965,Male,Same-Sex Marriage,5,4,1,Some College,Finance,3,0
+966,Male,Opposite-Sex Marriage,24,1,1,Some College,Retail,3,0
+967,Male,Same-Sex Marriage,17,3,5,Some College,Healthcare,2,0
+968,Female,Opposite-Sex Marriage,19,0,2,Doctorate,Finance,4,0
+969,Female,Same-Sex Marriage,19,2,4,Some College,Tech,1,1
+970,Male,Opposite-Sex Marriage,25,0,4,Master,Education,5,0
+971,Female,Opposite-Sex Marriage,21,2,5,Doctorate,Healthcare,2,0
+972,Male,Opposite-Sex Marriage,12,3,5,Some College,Healthcare,5,1
+973,Male,Same-Sex Marriage,25,1,2,High School,Healthcare,3,0
+974,Male,Opposite-Sex Marriage,29,4,2,Bachelor,Finance,4,0
+975,Female,Opposite-Sex Marriage,9,3,1,Bachelor,Tech,3,2
+976,Female,Opposite-Sex Marriage,1,0,4,Bachelor,Retail,5,0
+977,Female,Opposite-Sex Marriage,18,4,4,Doctorate,Tech,2,0
+978,Female,Opposite-Sex Marriage,21,1,5,Some College,Finance,2,0
+979,Female,Opposite-Sex Marriage,4,3,1,Doctorate,Healthcare,3,0
+980,Female,Opposite-Sex Marriage,10,4,4,Master,Education,1,0
+981,Female,Opposite-Sex Marriage,25,3,1,High School,Healthcare,2,1
+982,Female,Opposite-Sex Marriage,7,3,1,High School,Retail,5,0
+983,Female,Opposite-Sex Marriage,22,1,5,Bachelor,Unemployed,5,0
+984,Male,Opposite-Sex Marriage,23,2,1,Bachelor,Education,3,2
+985,Female,Opposite-Sex Marriage,1,4,2,Bachelor,Healthcare,5,0
+986,Female,Opposite-Sex Marriage,17,1,2,Some College,Education,3,0
+987,Female,Opposite-Sex Marriage,24,3,3,Master,Unemployed,2,0
+988,Female,Opposite-Sex Marriage,29,1,5,Master,Tech,4,2
+989,Female,Opposite-Sex Marriage,29,2,3,Master,Finance,4,1
+990,Female,Opposite-Sex Marriage,2,4,2,Master,Healthcare,5,0
+991,Female,Opposite-Sex Marriage,28,2,3,Bachelor,Retail,2,0
+992,Female,Opposite-Sex Marriage,26,0,5,High School,Tech,4,0
+993,Female,Opposite-Sex Marriage,11,4,5,Bachelor,Healthcare,1,2
+994,Female,Opposite-Sex Marriage,9,2,1,Master,Tech,2,0
+995,Female,Opposite-Sex Marriage,7,3,4,Bachelor,Retail,1,0
+996,Male,Opposite-Sex Marriage,22,4,1,Master,Healthcare,5,1
+997,Male,Opposite-Sex Marriage,17,4,5,Doctorate,Unemployed,4,0
+998,Female,Opposite-Sex Marriage,17,1,2,High School,Unemployed,4,0
+999,Female,Opposite-Sex Marriage,2,3,2,Doctorate,Retail,3,0
+1000,Male,Same-Sex Marriage,6,0,1,Some College,Education,3,0
