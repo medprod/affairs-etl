@@ -34,9 +34,9 @@ def extract_data():
 
 
 def load_data():
-    conn = BaseHook.get_connection('med_postgres')
+    conn = BaseHook.get_connection('cs779_postgres')
     conn_str = (
-        f"host={conn.host} dbname={conn.schema} user={conn.login}"
+        f"host={conn.host} dbname={conn.schema} user={conn.login} "
         f"password={conn.password} port={conn.port}"
     )
 
