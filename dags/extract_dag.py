@@ -125,6 +125,3 @@ with DAG(
     )
 
     extract_task >> load_task
-
-
-
