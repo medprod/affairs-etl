@@ -17,10 +17,10 @@ default_args = {
     'retries': 0
 }
 
-# Define base path to the data folder inside your dags directory
+# base path to the data folder inside dags directory
 base_path = os.path.join(os.path.dirname(__file__), 'data')
 
-# Construct full paths to the CSV files
+#full paths to the CSV files
 gender_file = os.path.join(base_path, 'gender.csv')
 relationships_file = os.path.join(base_path, 'relationships.csv')
 
@@ -79,7 +79,6 @@ def load_data():
             cursor.execute("""
                 CREATE TABLE IF NOT EXISTS affairs.relationships (
                     respondent_id INTEGER,
-                    gender TEXT,
                     relationship_type TEXT,
                     yearsmarried INTEGER,
                     children INTEGER,
@@ -91,7 +90,8 @@ def load_data():
                     narrative_text TEXT,
                     edu_occup_notes TEXT,
                     life_context TEXT,
-                    relationship_summary TEXT
+                    relationship_summary TEXT,
+                    gender TEXT
                 );
             """)
             cursor.execute("TRUNCATE affairs.relationships;")
@@ -100,9 +100,9 @@ def load_data():
             for _, row in rship.iterrows():
                 cursor.execute("""
                     INSERT INTO affairs.relationships (
-                        respondent_id, gender, relationship_type, yearsmarried, children,
+                        respondent_id, relationship_type, yearsmarried, children,
                         religiousness, education, occupation, rating, num_affairs,
-                        narrative_text, edu_occup_notes, life_context, relationship_summary)
+                        narrative_text, edu_occup_notes, life_context, relationship_summary, gender)
                     VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s);
                 """, tuple(row))
             
