@@ -7,7 +7,9 @@ SELECT * FROM gender
 LEFT JOIN relationships
 ON gender.respondent_id = relationships.respondent_id;
 
---drop columns that are double.
+--2. combining the tables gender and relationship and removing repetitive columns.
+DROP TABLE IF EXISTS gender_rship;
+
 CREATE TABLE IF NOT EXISTS
 gender_rship AS
 SELECT
@@ -28,5 +30,3 @@ LEFT JOIN relationships r
 ON g.respondent_id = r.respondent_id;
 
 SELECT * FROM gender_rship;
-
-DROP TABLE IF EXISTS gender_rship
