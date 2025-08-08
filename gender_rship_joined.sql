@@ -16,6 +16,7 @@ SELECT
 	g.gender,
 	g.age,
 	g.yearsmarried,
+	r.children,
 	g.religiousness,
 	g.rating,
 	r.relationship_type,
@@ -27,3 +28,5 @@ LEFT JOIN relationships r
 ON g.respondent_id = r.respondent_id;
 
 SELECT * FROM gender_rship;
+
+DROP TABLE IF EXISTS gender_rship
