@@ -1,0 +1,11 @@
+{"timestamp":"2025-08-09T05:42:07.983958","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-08-09T05:42:07.984285","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/oltp_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-09T05:42:08.001743Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-09T05:42:08.002291Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-09T05:42:08.002343Z","level":"info","event":"Current task name:join_gender_rship","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-09T05:42:08.002379Z","level":"info","event":"Dag name:oltp_normalized_dag","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-09T05:42:08.007794","level":"info","event":"Connection Retrieved 'cs779_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-08-09T05:42:08.050518","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-08-09T05:42:08.060221Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-09T05:42:08.064107Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-09T05:42:08.064562Z","level":"info","event":"Task operator:<Task(PythonOperator): join_gender_rship>","chan":"stdout","logger":"task"}

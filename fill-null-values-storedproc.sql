@@ -1,4 +1,3 @@
-
 --stored procedure for filling nulls
 CREATE OR REPLACE PROCEDURE fill_null_values()
 LANGUAGE plpgsql
