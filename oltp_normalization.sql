@@ -62,8 +62,18 @@ FROM (SELECT DISTINCT religiousness FROM gender_rship) sub;
 
 SELECT * FROM religiousness;
 
+--F. Creating a relationship type lookup
+DROP TABLE IF EXISTS relationship_type_lookup;
 
---F. Creating respondent table
+CREATE TABLE relationship_type AS
+SELECT ROW_NUMBER() OVER (ORDER BY relationship_type) AS relationship_type_id,
+       relationship_type
+FROM (SELECT DISTINCT relationship_type FROM gender_rship) sub;
+
+SELECT * FROM relationship_type;
+
+
+--G. Creating respondent table
 DROP TABLE IF EXISTS respondent;
 
 CREATE TABLE IF NOT EXISTS respondent AS 
@@ -81,18 +91,20 @@ JOIN religiousness reg ON g.religiousness = reg.religiousness_id;
 
 SELECT * FROM respondent ORDER BY respondent_id;
 
---G. Creating relationship_type table
-DROP TABLE IF EXISTS relationship_type;
+--H. Creating relationship_type table
+DROP TABLE IF EXISTS relationship_details;
 
-CREATE TABLE IF NOT EXISTS relationship_type AS
-SELECT 
-    g.respondent_id,
-    g.yearsmarried,
-    g.children,
-    r.rating_id,
-    g.affairs AS affairs_num,
-    g.narrative_text
+CREATE TABLE relationship_details AS
+SELECT g.respondent_id,
+       rt.relationship_type_id,
+       g.yearsmarried,
+       g.children,
+       r.rating_id,
+       g.affairs AS affairs_num,
+       g.narrative_text
 FROM gender_rship g
-JOIN rating r ON g.rating = r.rating_id;
+JOIN rating r ON g.rating = r.rating_id
+JOIN relationship_type rt ON g.relationship_type = rt.relationship_type;
 
-SELECT * FROM relationship_type;
+
+SELECT * FROM relationship_details;

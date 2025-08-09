@@ -1,10 +1,10 @@
-SET search_path = affairs;
 
 --stored procedure for filling nulls
 CREATE OR REPLACE PROCEDURE fill_null_values()
 LANGUAGE plpgsql
 AS $$
 BEGIN
+	SET search_path = affairs;
     -- A. CHILDREN column NULL values filled based on years married
     UPDATE gender_rship
     SET children = 
@@ -55,5 +55,4 @@ BEGIN
 END;
 $$;
 
-SELECT * FROM gender_rship;
 CALL fill_null_values();

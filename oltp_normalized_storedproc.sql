@@ -1,6 +1,3 @@
-SET search_path = affairs;
-
-
 CREATE OR REPLACE PROCEDURE normalize_gender_rship()
 LANGUAGE plpgsql
 AS $$
@@ -54,8 +51,8 @@ BEGIN
     FROM (SELECT DISTINCT religiousness FROM gender_rship) sub;
 
     -- F. Relationship type lookup
-    DROP TABLE IF EXISTS relationship_type_lookup;
-    CREATE TABLE relationship_type_lookup AS
+    DROP TABLE IF EXISTS relationship_type;
+    CREATE TABLE relationship_type AS
     SELECT ROW_NUMBER() OVER (ORDER BY relationship_type) AS relationship_type_id,
            relationship_type
     FROM (SELECT DISTINCT relationship_type FROM gender_rship) sub;
@@ -87,7 +84,7 @@ BEGIN
            g.narrative_text
     FROM gender_rship g
     JOIN rating r ON g.rating = r.rating_id
-    JOIN relationship_type_lookup rt ON g.relationship_type = rt.relationship_type;
+    JOIN relationship_type rt ON g.relationship_type = rt.relationship_type;
 
 END;
 $$;
