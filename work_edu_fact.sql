@@ -1,4 +1,5 @@
 SET search_path = affairs_olap;
+
 --Work_Edu_Fact
 DROP TABLE IF EXISTS work_edu_fact;
 

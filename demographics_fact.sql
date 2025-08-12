@@ -42,6 +42,7 @@ JOIN rship_type_dim rt ON rd.relationship_type_id = rt.relationship_type_id
 JOIN survey_date_dim s on s.year = EXTRACT(YEAR FROM CURRENT_DATE) AND s.month = EXTRACT(MONTH FROM CURRENT_DATE)
 AND s.day = EXTRACT(DAY FROM CURRENT_DATE);
 
+
 SELECT * FROM demographics_fact;
 SELECT * FROM respondent_dim;
 SELECT * FROM gender_dim;
