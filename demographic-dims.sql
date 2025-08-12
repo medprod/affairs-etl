@@ -25,13 +25,15 @@ DROP TABLE IF EXISTS rship_details_dim;
 CREATE TABLE rship_details_dim (
     rship_details_dim_id SERIAL PRIMARY KEY,
 	respondent_id NUMERIC,
+	relationship_type_id NUMERIC,
+	rating_id NUMERIC,
     years_married NUMERIC,
     children INT,
     num_affairs NUMERIC
 );
 
-INSERT INTO rship_details_dim(respondent_id, years_married, children, num_affairs)
-SELECT DISTINCT respondent_id, yearsmarried, children, affairs_num
+INSERT INTO rship_details_dim(respondent_id, relationship_type_id, rating_id, years_married, children, num_affairs)
+SELECT DISTINCT respondent_id, relationship_type_id, rating_id, yearsmarried, children, affairs_num
 FROM affairs.relationship_details;
 
 SELECT * FROM affairs.relationship_details;
@@ -43,14 +45,19 @@ DROP TABLE IF EXISTS respondent_dim;
 CREATE TABLE respondent_dim (
     respondent_dim_id SERIAL PRIMARY KEY,
 	respondent_id NUMERIC,
+	gender_id NUMERIC,
+	occupation_id NUMERIC, 
+	education_id NUMERIC, 
+	religiousness_id NUMERIC,
     age INT
 );
 
-INSERT INTO respondent_dim(respondent_id, age)
-SELECT DISTINCT respondent_id, age
+INSERT INTO respondent_dim(respondent_id, gender_id, occupation_id, education_id, religiousness_id, age)
+SELECT DISTINCT respondent_id,gender_id, occupation_id, education_id, religiousness_id, age
 FROM affairs.respondent;
 
 SELECT * FROM respondent_dim;
+SELECT * FROM affairs.respondent;
 
 
 --4. Rship_Type Dim

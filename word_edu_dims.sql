@@ -34,3 +34,5 @@ SELECT DISTINCT occupation_id, occupation
 FROM affairs.occupation;
 
 SELECT * FROM occupation_dim;
+
+
