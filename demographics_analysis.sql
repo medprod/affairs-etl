@@ -11,11 +11,20 @@ JOIN gender_dim g ON df.gender_dim_id = g.gender_dim_id
 GROUP BY g.gender;
 
 SELECT g.gender,
-ROUND((SUM(CASE WHEN df.cheated_flag THEN 1 ELSE 0 END)::NUMERIC/COUNT(*)) * 100, 2) AS percent_cheated
+ROUND((SUM(CASE WHEN df.cheated_flag THEN 1 ELSE 0 END)::NUMERIC/(SELECT COUNT(*) FROM demographics_fact)) * 100, 2) AS percent_cheated
 FROM demographics_fact df
 JOIN gender_dim g ON df.gender_dim_id = g.gender_dim_id
 GROUP BY g.gender;
 
+SELECT g.gender,
+SUM(CASE WHEN df.cheated_flag THEN 1 ELSE 0 END) AS cheated_count,
+ROUND((SUM(CASE WHEN df.cheated_flag THEN 1 ELSE 0 END)::NUMERIC /(SELECT COUNT(*) FROM demographics_fact))* 100, 2) 
+AS percent_of_all,
+ROUND((SUM(CASE WHEN df.cheated_flag THEN 1 ELSE 0 END)::NUMERIC /(SELECT COUNT(*) FROM demographics_fact WHERE cheated_flag)) * 100, 2) 
+AS percent_of_cheaters
+FROM demographics_fact df
+JOIN gender_dim g ON df.gender_dim_id = g.gender_dim_id
+GROUP BY g.gender;
 
 --2. Average Number of Affairs: Same-Sex vs Opposite-Sex
 SELECT * FROM demographics_fact;
