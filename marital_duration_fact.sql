@@ -10,6 +10,7 @@ CREATE TABLE marital_duration_fact (
     rship_details_dim_id INT NOT NULL,
     rating_dim_id INT NOT NULL,
     survey_date_dim_id INT NOT NULL,
+	years_married INT NOT NULL,
     affair_count INT NOT NULL,
     cheated_flag BOOLEAN NOT NULL,
     FOREIGN KEY (respondent_dim_id) REFERENCES respondent_dim(respondent_dim_id),
@@ -23,6 +24,7 @@ INSERT INTO marital_duration_fact (
     rship_details_dim_id,
     rating_dim_id,
     survey_date_dim_id,
+	years_married,
     affair_count,
     cheated_flag
 )
@@ -31,6 +33,7 @@ res.respondent_dim_id,
 rd.rship_details_dim_id,
 rat.rating_dim_id,
 s.survey_date_dim_id,
+rd.years_married AS total_years_married,
 rd.num_affairs AS affair_count,
 CASE WHEN rd.num_affairs > 0 THEN TRUE ELSE FALSE END AS cheated_flag
 FROM respondent_dim res
