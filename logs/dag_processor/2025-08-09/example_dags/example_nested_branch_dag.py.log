@@ -62,3 +62,5 @@
 {"timestamp":"2025-08-09T06:05:45.832108","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-09T06:06:16.068818","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-09T06:06:46.758113","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-09T06:07:17.598091","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-09T06:07:49.093876","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py","logger":"airflow.models.dagbag.DagBag"}

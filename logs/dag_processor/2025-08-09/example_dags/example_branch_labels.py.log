@@ -62,3 +62,5 @@
 {"timestamp":"2025-08-09T06:05:50.327798","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-09T06:06:20.652541","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-09T06:06:52.392475","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-09T06:07:23.222304","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-09T06:07:53.649519","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py","logger":"airflow.models.dagbag.DagBag"}
