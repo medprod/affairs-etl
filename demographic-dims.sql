@@ -43,15 +43,14 @@ DROP TABLE IF EXISTS respondent_dim;
 CREATE TABLE respondent_dim (
     respondent_dim_id SERIAL PRIMARY KEY,
 	respondent_id NUMERIC,
-    age INT,
+    age INT
 );
 
-INSERT INTO rship_details_dim(respondent_id, years_married, children, num_affairs)
-SELECT DISTINCT respondent_id, yearsmarried, children, affairs_num
-FROM affairs.relationship_details;
+INSERT INTO respondent_dim(respondent_id, age)
+SELECT DISTINCT respondent_id, age
+FROM affairs.respondent;
 
-SELECT * FROM affairs.relationship_details;
-SELECT * FROM rship_details_dim;
+SELECT * FROM respondent_dim;
 
 
 --4. Rship_Type Dim
@@ -92,8 +91,3 @@ SELECT DISTINCT
     EXTRACT(QUARTER FROM CURRENT_DATE);
 
 SELECT * FROM survey_date_dim;
-
-
-
-
-
