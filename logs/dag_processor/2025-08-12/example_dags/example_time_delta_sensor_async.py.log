@@ -1135,3 +1135,4 @@
 {"timestamp":"2025-08-12T21:21:21.829453","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_time_delta_sensor_async.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-12T21:21:53.570033","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_time_delta_sensor_async.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-12T21:22:24.284359","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_time_delta_sensor_async.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T21:22:55.169944","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_time_delta_sensor_async.py","logger":"airflow.models.dagbag.DagBag"}

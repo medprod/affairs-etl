@@ -1146,3 +1146,4 @@
 {"timestamp":"2025-08-12T21:21:27.315041","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-12T21:21:58.031119","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-12T21:22:28.727986","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T21:22:58.901476","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial.py","logger":"airflow.models.dagbag.DagBag"}

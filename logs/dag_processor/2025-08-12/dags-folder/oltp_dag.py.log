@@ -1149,3 +1149,4 @@
 {"timestamp":"2025-08-12T21:21:36.950596","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/oltp_dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-12T21:22:07.647021","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/oltp_dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-12T21:22:38.443339","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/oltp_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T21:23:08.596454","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/oltp_dag.py","logger":"airflow.models.dagbag.DagBag"}
