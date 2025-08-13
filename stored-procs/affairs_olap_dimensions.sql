@@ -3,7 +3,6 @@ CREATE OR REPLACE PROCEDURE affairs_olap_dimensions()
 LANGUAGE plpgsql
 AS $$
 BEGIN
-    -- Switch to OLAP schema
     SET search_path = affairs_olap;
 
     -- =========================
