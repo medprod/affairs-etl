@@ -1,0 +1,11 @@
+{"timestamp":"2025-08-13T22:19:58.964938","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-08-13T22:19:58.965218","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/extract_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-13T22:19:58.984260Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-13T22:19:58.984401Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-13T22:19:58.984505Z","level":"info","event":"Current task name:load_data","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-13T22:19:58.984573Z","level":"info","event":"Dag name:extract_load_data","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-13T22:19:58.990727","level":"info","event":"Connection Retrieved 'cs779_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-08-13T22:19:59.131707","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-08-13T22:19:59.142632Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-13T22:19:59.142835Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-13T22:19:59.143389Z","level":"info","event":"Task operator:<Task(PythonOperator): load_data>","chan":"stdout","logger":"task"}

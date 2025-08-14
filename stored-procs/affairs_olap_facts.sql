@@ -3,9 +3,8 @@ LANGUAGE plpgsql
 AS $$
 BEGIN
 	SET search_path = affairs_olap;
-    -- =========================
+
     -- Demographics Fact
-    -- =========================
     DROP TABLE IF EXISTS demographics_fact;
 
     CREATE TABLE demographics_fact (
@@ -46,9 +45,7 @@ BEGIN
     JOIN rship_type_dim rt ON rd.relationship_type_id = rt.relationship_type_id
 	JOIN survey_date_dim s ON s.survey_date_dim_id = 1;
 
-    -- =========================
     -- Work_Edu Fact
-    -- =========================
     DROP TABLE IF EXISTS work_edu_fact;
 
     CREATE TABLE work_edu_fact (
@@ -89,9 +86,7 @@ BEGIN
     JOIN rship_details_dim rd ON res.respondent_id = rd.respondent_id
 	JOIN survey_date_dim s ON s.survey_date_dim_id = 1;
 
-    -- =========================
     -- Marital_Duration Fact
-    -- =========================
     DROP TABLE IF EXISTS marital_duration_fact;
 
     CREATE TABLE marital_duration_fact (
@@ -130,9 +125,7 @@ BEGIN
     JOIN rating_dim rat ON rd.rating_id = rat.rating_dim_id
 	JOIN survey_date_dim s ON s.survey_date_dim_id = 1;
 
-    -- =========================
     -- Religion Impact Fact
-	    -- =========================
 	DROP TABLE IF EXISTS religion_impact_fact;
 	
 	CREATE TABLE religion_impact_fact (

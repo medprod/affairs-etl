@@ -5,9 +5,7 @@ AS $$
 BEGIN
     SET search_path = affairs_olap;
 
-    -- =========================
     -- 1. Gender DIM
-    -- =========================
     DROP TABLE IF EXISTS gender_dim;
     CREATE TABLE gender_dim(
         gender_dim_id SERIAL PRIMARY KEY,
@@ -17,9 +15,7 @@ BEGIN
     SELECT DISTINCT gender
     FROM affairs.sex;
 
-    -- =========================
     -- 2. Rship Details DIM
-    -- =========================
     DROP TABLE IF EXISTS rship_details_dim;
     CREATE TABLE rship_details_dim (
         rship_details_dim_id SERIAL PRIMARY KEY,
@@ -34,9 +30,7 @@ BEGIN
     SELECT DISTINCT respondent_id, relationship_type_id, rating_id, yearsmarried, children, affairs_num
     FROM affairs.relationship_details;
 
-    -- =========================
     -- 3. Respondent DIM
-    -- =========================
     DROP TABLE IF EXISTS respondent_dim;
     CREATE TABLE respondent_dim (
         respondent_dim_id SERIAL PRIMARY KEY,
@@ -51,9 +45,7 @@ BEGIN
     SELECT DISTINCT respondent_id, gender_id, occupation_id, education_id, religiousness_id, age
     FROM affairs.respondent;
 
-    -- =========================
     -- 4. Rship Type DIM
-    -- =========================
     DROP TABLE IF EXISTS rship_type_dim;
     CREATE TABLE rship_type_dim (
         rship_type_dim_id SERIAL PRIMARY KEY,
@@ -66,9 +58,7 @@ BEGIN
     SELECT DISTINCT relationship_type_id, relationship_type, CURRENT_DATE
     FROM affairs.relationship_type;
 
-    -- =========================
     -- 5. Survey Date DIM
-    -- =========================
     DROP TABLE IF EXISTS survey_date_dim;
     CREATE TABLE survey_date_dim (
         survey_date_dim_id SERIAL PRIMARY KEY,
@@ -86,9 +76,7 @@ BEGIN
         EXTRACT(DAY FROM CURRENT_DATE),
         EXTRACT(QUARTER FROM CURRENT_DATE);
 
-    -- =========================
     -- 6. Education DIM
-    -- =========================
     DROP TABLE IF EXISTS education_dim;
     CREATE TABLE education_dim(
         education_dim_id SERIAL PRIMARY KEY,
@@ -101,9 +89,7 @@ BEGIN
     SELECT DISTINCT education_id, education
     FROM affairs.education;
 
-    -- =========================
     -- 7. Occupation DIM
-    -- =========================
     DROP TABLE IF EXISTS occupation_dim;
     CREATE TABLE occupation_dim(
         occupation_dim_id SERIAL PRIMARY KEY,
@@ -116,9 +102,7 @@ BEGIN
     SELECT DISTINCT occupation_id, occupation
     FROM affairs.occupation;
 
-    -- =========================
     -- 8. Rating DIM
-    -- =========================
     DROP TABLE IF EXISTS rating_dim;
     CREATE TABLE rating_dim (
         rating_dim_id NUMERIC PRIMARY KEY,
@@ -131,9 +115,7 @@ BEGIN
     SELECT DISTINCT rating_id, rating_id, rating_desc
     FROM affairs.rating;
 
-    -- =========================
     -- 9. Religiousness DIM
-    -- =========================
     DROP TABLE IF EXISTS religiousness_dim;
     CREATE TABLE religiousness_dim (
         religiousness_dim_id SERIAL PRIMARY KEY,
